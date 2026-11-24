@@ -1,0 +1,1201 @@
+review_id,product,date,rating,review_text,sentiment
+1,NovaPhone X,2025-02-02,5,Camera photos are stunning in daylight. Highly recommended. The battery easily lasts a full day.,Positive
+2,NovaPhone X,2026-08-27,4,Highly recommended. The battery easily lasts a full day.,Positive
+3,AeroBook Air,2025-04-15,3,The display is average. Average product.,Neutral
+4,NovaPhone X,2026-07-20,5,Great value for money. Very happy with this purchase. Delivery was quick and well packed.,Positive
+5,AeroBook Air,2026-10-13,3,Price is reasonable. Performance is fine for basic tasks. It is okay overall. Battery easily gets me through a workday.,Neutral
+6,AeroBook Air,2025-09-08,5,The display is bright and sharp. Battery easily gets me through a workday. Very happy with this purchase.,Positive
+7,BeatBuds Pro,2025-10-02,5,Battery lasts for days on one charge. Very comfortable even after hours. Very happy with this purchase.,Positive
+8,NovaPhone X,2026-03-15,5,Absolutely great. Camera photos are stunning in daylight. The battery easily lasts a full day. Great value for money.,Positive
+9,FitPulse Watch,2025-06-13,4,Amazing features at this price. Loving it!,Positive
+10,FitPulse Watch,2025-10-01,2,Not worth the money. Strap feels cheap and itchy. Regret buying this.,Negative
+11,AeroBook Air,2026-10-03,5,Excellent value for a laptop this good. Loving it! The display is bright and sharp.,Positive
+12,AeroBook Air,2025-04-25,3,Price is reasonable. The display is average. Performance is fine for basic tasks. Does the job.,Neutral
+13,AeroBook Air,2025-05-09,3,Performance is fine for basic tasks. The display is average. Does the job.,Neutral
+14,BeatBuds Pro,2026-04-08,2,Would not recommend. They hurt my ears after twenty minutes. Battery dies within two hours. Too expensive for the quality.,Negative
+15,NovaPhone X,2025-01-08,5,Great value for money. Loving it!,Positive
+16,NovaPhone X,2025-09-01,2,Very disappointed. Camera is blurry in low light.,Negative
+17,AeroBook Air,2025-04-07,1,Regret buying this. The display has terrible washed out colors.,Negative
+18,NovaPhone X,2025-12-14,1,Delivery was late and the box was damaged. Regret buying this. Camera is decent for the price.,Negative
+19,NovaPhone X,2025-03-19,5,Highly recommended. Delivery was quick and well packed.,Positive
+20,FitPulse Watch,2026-01-24,3,Price is average. Battery is okay. It is okay overall. Strap feels cheap and itchy.,Neutral
+21,NovaPhone X,2025-10-31,3,Average product. Delivery took the usual time. Camera is decent for the price.,Neutral
+22,BeatBuds Pro,2026-09-02,3,Battery is fine for daily use. Comfort is acceptable. It is okay overall. Sound is tinny and distorted at high volume.,Neutral
+23,NovaPhone X,2025-02-10,2,Delivery was late and the box was damaged. Very disappointed.,Negative
+24,NovaPhone X,2026-04-15,4,Very happy with this purchase. The battery easily lasts a full day. Great value for money. Camera photos are stunning in daylight.,Positive
+25,NovaPhone X,2025-10-19,4,Great value for money. Highly recommended.,Positive
+26,BeatBuds Pro,2026-09-12,5,Very comfortable even after hours. Sound quality is crisp with deep bass. Totally worth the price. Very happy with this purchase.,Positive
+27,BeatBuds Pro,2026-03-10,2,They hurt my ears after twenty minutes. Regret buying this.,Negative
+28,AeroBook Air,2025-06-02,4,Battery easily gets me through a workday. Very happy with this purchase. The display has terrible washed out colors.,Positive
+29,NovaPhone X,2025-04-16,3,Delivery took the usual time. Battery life is average. Camera is decent for the price. It is okay overall.,Neutral
+30,AeroBook Air,2025-12-07,2,Performance lags with multiple tabs open. Would not recommend. The display has terrible washed out colors.,Negative
+31,FitPulse Watch,2025-01-25,3,It is okay overall. Not worth the money. Tracking is acceptable. Battery is okay.,Neutral
+32,BeatBuds Pro,2025-09-25,4,Very happy with this purchase. Sound quality is crisp with deep bass. Battery lasts for days on one charge.,Positive
+33,BeatBuds Pro,2025-07-14,2,Too expensive for the quality. Regret buying this. Sound is tinny and distorted at high volume.,Negative
+34,AeroBook Air,2025-11-04,5,Highly recommended. Battery life is decent. Performance is blazing fast for coding.,Positive
+35,AeroBook Air,2025-11-05,2,Battery life is decent. Total waste of money. Way too pricey.,Negative
+36,FitPulse Watch,2026-03-29,1,Total waste of money. Strap feels cheap and itchy.,Negative
+37,BeatBuds Pro,2025-05-31,1,Total waste of money. Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes. Battery dies within two hours.,Negative
+38,NovaPhone X,2025-09-07,5,Absolutely great. The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+39,BeatBuds Pro,2025-09-13,2,Regret buying this. Sound is tinny and distorted at high volume.,Negative
+40,NovaPhone X,2025-09-11,5,Camera photos are stunning in daylight. Great value for money. Absolutely great.,Positive
+41,AeroBook Air,2025-08-25,1,Performance lags with multiple tabs open. Total waste of money. Way too pricey. Battery barely lasts three hours.,Negative
+42,FitPulse Watch,2026-05-04,1,Step and heart rate tracking are wildly inaccurate. Regret buying this. Battery needs charging every night. Not worth the money.,Negative
+43,NovaPhone X,2026-02-19,3,Camera is decent for the price. Does the job. Delivery took the usual time.,Neutral
+44,BeatBuds Pro,2026-03-15,3,"Sound is okay, nothing special. Average product.",Neutral
+45,BeatBuds Pro,2025-12-12,3,"Sound is okay, nothing special. Mixed feelings.",Neutral
+46,FitPulse Watch,2025-02-01,5,Design is plain but fine. Battery needs charging every night. Absolutely great.,Positive
+47,BeatBuds Pro,2026-04-22,5,Battery is fine for daily use. Highly recommended.,Positive
+48,AeroBook Air,2025-11-16,1,Performance lags with multiple tabs open. Would not recommend.,Negative
+49,FitPulse Watch,2026-03-15,5,Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist. Battery runs a full week. Loving it!,Positive
+50,AeroBook Air,2026-10-29,5,Performance is blazing fast for coding. Absolutely great. The display is bright and sharp. Battery barely lasts three hours.,Positive
+51,AeroBook Air,2026-09-17,2,Battery barely lasts three hours. Total waste of money. Way too pricey. The display has terrible washed out colors.,Negative
+52,FitPulse Watch,2025-10-10,5,Absolutely great. Battery runs a full week. Looks sleek and premium on the wrist.,Positive
+53,NovaPhone X,2026-05-03,1,Would not recommend. Battery drains way too fast.,Negative
+54,FitPulse Watch,2026-08-19,5,Battery runs a full week. Very happy with this purchase.,Positive
+55,AeroBook Air,2026-07-03,5,Battery easily gets me through a workday. Excellent value for a laptop this good. The display is bright and sharp. Very happy with this purchase.,Positive
+56,BeatBuds Pro,2025-02-25,5,Totally worth the price. Very comfortable even after hours. Loving it! Battery lasts for days on one charge.,Positive
+57,AeroBook Air,2026-03-28,1,Very disappointed. Way too pricey.,Negative
+58,AeroBook Air,2026-08-14,5,Absolutely great. Battery easily gets me through a workday.,Positive
+59,NovaPhone X,2025-11-01,5,Loving it! Delivery was quick and well packed. The battery easily lasts a full day. Great value for money.,Positive
+60,FitPulse Watch,2026-02-23,4,Amazing features at this price. Highly recommended. Looks sleek and premium on the wrist. Battery runs a full week.,Positive
+61,FitPulse Watch,2025-09-28,1,Battery needs charging every night. Would not recommend. Strap feels cheap and itchy.,Negative
+62,BeatBuds Pro,2025-11-08,5,Sound quality is crisp with deep bass. Very happy with this purchase. Battery lasts for days on one charge. Very comfortable even after hours.,Positive
+63,FitPulse Watch,2026-08-25,3,Price is average. Tracking is acceptable. Battery is okay. It is okay overall.,Neutral
+64,NovaPhone X,2025-04-04,3,Does the job. Battery life is average. Delivery took the usual time. Price is about what I expected.,Neutral
+65,FitPulse Watch,2026-02-15,5,Loving it! Looks sleek and premium on the wrist. Amazing features at this price.,Positive
+66,NovaPhone X,2026-04-19,5,Great value for money. Loving it! Camera photos are stunning in daylight.,Positive
+67,FitPulse Watch,2026-10-08,4,Absolutely great. Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist. Amazing features at this price.,Positive
+68,BeatBuds Pro,2025-10-26,2,Sound quality is crisp with deep bass. They hurt my ears after twenty minutes. Regret buying this.,Negative
+69,AeroBook Air,2026-03-01,4,Excellent value for a laptop this good. Absolutely great. Performance is blazing fast for coding.,Positive
+70,AeroBook Air,2026-07-20,3,Mixed feelings. Performance is fine for basic tasks. The display is average. Battery life is decent.,Neutral
+71,FitPulse Watch,2026-04-30,5,Looks sleek and premium on the wrist. Highly recommended. Fitness tracking is accurate and motivating.,Positive
+72,FitPulse Watch,2025-05-28,4,Amazing features at this price. Fitness tracking is accurate and motivating. Highly recommended. Battery runs a full week.,Positive
+73,FitPulse Watch,2026-02-12,3,Average product. Battery is okay.,Neutral
+74,NovaPhone X,2026-10-11,3,Delivery took the usual time. Price is about what I expected. It is okay overall. Camera is decent for the price.,Neutral
+75,NovaPhone X,2025-07-04,5,The battery easily lasts a full day. Delivery was quick and well packed. Very happy with this purchase. Great value for money.,Positive
+76,BeatBuds Pro,2026-07-14,5,They hurt my ears after twenty minutes. Absolutely great. Totally worth the price. Sound quality is crisp with deep bass.,Positive
+77,BeatBuds Pro,2025-04-20,5,Totally worth the price. Absolutely great. Very comfortable even after hours.,Positive
+78,BeatBuds Pro,2026-05-24,5,Comfort is acceptable. Totally worth the price. Very happy with this purchase.,Positive
+79,AeroBook Air,2025-05-21,2,Would not recommend. Battery barely lasts three hours.,Negative
+80,NovaPhone X,2025-05-16,3,It is okay overall. Battery life is average. Overpriced for what you get. Camera is decent for the price.,Neutral
+81,AeroBook Air,2025-05-25,1,Way too pricey. Regret buying this. The display has terrible washed out colors.,Negative
+82,BeatBuds Pro,2025-04-21,3,It is okay overall. Fairly priced. Battery dies within two hours. Comfort is acceptable.,Neutral
+83,BeatBuds Pro,2025-11-08,4,Very comfortable even after hours. Totally worth the price. Loving it! Sound quality is crisp with deep bass.,Positive
+84,FitPulse Watch,2025-06-08,5,Absolutely great. Fitness tracking is accurate and motivating.,Positive
+85,FitPulse Watch,2026-01-12,1,Step and heart rate tracking are wildly inaccurate. Very disappointed. Not worth the money.,Negative
+86,AeroBook Air,2025-09-07,4,The display is bright and sharp. Absolutely great. Performance is blazing fast for coding.,Positive
+87,BeatBuds Pro,2026-09-03,1,Sound is tinny and distorted at high volume. Would not recommend.,Negative
+88,NovaPhone X,2025-05-15,5,Camera photos are stunning in daylight. Very happy with this purchase.,Positive
+89,NovaPhone X,2026-06-23,5,Great value for money. Loving it!,Positive
+90,NovaPhone X,2026-06-18,2,Delivery was late and the box was damaged. Very disappointed. Camera is blurry in low light.,Negative
+91,AeroBook Air,2026-05-18,5,Absolutely great. Performance is blazing fast for coding.,Positive
+92,FitPulse Watch,2026-06-28,5,Highly recommended. Strap feels cheap and itchy.,Positive
+93,AeroBook Air,2025-11-17,5,Highly recommended. Performance is blazing fast for coding. Excellent value for a laptop this good. Battery easily gets me through a workday.,Positive
+94,FitPulse Watch,2025-03-03,4,Absolutely great. Looks sleek and premium on the wrist. Battery runs a full week.,Positive
+95,AeroBook Air,2026-08-15,1,Regret buying this. Way too pricey. Battery barely lasts three hours.,Negative
+96,BeatBuds Pro,2026-09-29,5,Sound quality is crisp with deep bass. Very happy with this purchase. Battery lasts for days on one charge.,Positive
+97,NovaPhone X,2026-02-15,2,Overpriced for what you get. Battery drains way too fast. Delivery was late and the box was damaged. Total waste of money.,Negative
+98,NovaPhone X,2025-06-11,4,The battery easily lasts a full day. Absolutely great. Great value for money. Delivery was quick and well packed.,Positive
+99,NovaPhone X,2025-12-20,1,Overpriced for what you get. Regret buying this. Delivery was late and the box was damaged.,Negative
+100,FitPulse Watch,2025-12-02,5,Amazing features at this price. Fitness tracking is accurate and motivating. Loving it! Looks sleek and premium on the wrist.,Positive
+101,NovaPhone X,2026-03-23,5,Great value for money. Delivery was quick and well packed. Absolutely great. The battery easily lasts a full day.,Positive
+102,NovaPhone X,2026-02-19,5,Absolutely great. Great value for money.,Positive
+103,NovaPhone X,2026-02-15,3,Delivery was quick and well packed. Mixed feelings.,Neutral
+104,NovaPhone X,2026-10-23,5,Great value for money. Battery life is average. Very happy with this purchase.,Positive
+105,BeatBuds Pro,2026-05-21,4,Very comfortable even after hours. Highly recommended.,Positive
+106,FitPulse Watch,2025-03-17,2,Amazing features at this price. Total waste of money. Step and heart rate tracking are wildly inaccurate. Strap feels cheap and itchy.,Negative
+107,AeroBook Air,2026-09-22,5,Performance is blazing fast for coding. Very happy with this purchase.,Positive
+108,FitPulse Watch,2026-06-01,5,Fitness tracking is accurate and motivating. Battery runs a full week. Very happy with this purchase. Amazing features at this price.,Positive
+109,BeatBuds Pro,2025-12-09,5,Totally worth the price. Very happy with this purchase. Sound quality is crisp with deep bass. Battery lasts for days on one charge.,Positive
+110,NovaPhone X,2025-03-28,4,Highly recommended. Delivery was quick and well packed. Overpriced for what you get. Camera photos are stunning in daylight.,Positive
+111,AeroBook Air,2025-06-08,1,Excellent value for a laptop this good. Regret buying this. Battery barely lasts three hours. Performance lags with multiple tabs open.,Negative
+112,NovaPhone X,2025-06-07,5,The battery easily lasts a full day. Very happy with this purchase.,Positive
+113,BeatBuds Pro,2025-08-28,5,Loving it! Battery lasts for days on one charge. Very comfortable even after hours. Totally worth the price.,Positive
+114,BeatBuds Pro,2026-09-12,4,Absolutely great. Totally worth the price. Battery lasts for days on one charge.,Positive
+115,BeatBuds Pro,2025-05-08,3,Fairly priced. Mixed feelings.,Neutral
+116,AeroBook Air,2025-08-16,5,Battery easily gets me through a workday. Absolutely great.,Positive
+117,FitPulse Watch,2025-03-25,3,It is okay overall. Price is average.,Neutral
+118,AeroBook Air,2026-04-05,5,Battery barely lasts three hours. Very happy with this purchase. Performance is blazing fast for coding.,Positive
+119,NovaPhone X,2025-09-01,3,Does the job. Price is about what I expected.,Neutral
+120,AeroBook Air,2026-08-12,5,Way too pricey. Absolutely great.,Positive
+121,BeatBuds Pro,2025-03-11,1,Too expensive for the quality. Total waste of money. Sound is tinny and distorted at high volume.,Negative
+122,NovaPhone X,2025-09-04,4,Great value for money. The battery easily lasts a full day. Absolutely great.,Positive
+123,NovaPhone X,2025-05-19,1,Total waste of money. Overpriced for what you get. Battery drains way too fast. Delivery took the usual time.,Negative
+124,NovaPhone X,2026-07-11,1,Would not recommend. Camera is blurry in low light. The battery easily lasts a full day.,Negative
+125,FitPulse Watch,2025-07-11,5,Loving it! Amazing features at this price. Fitness tracking is accurate and motivating. Strap feels cheap and itchy.,Positive
+126,FitPulse Watch,2025-03-23,1,Battery needs charging every night. Design is plain but fine. Regret buying this.,Negative
+127,AeroBook Air,2025-10-09,1,Battery barely lasts three hours. Way too pricey. Regret buying this.,Negative
+128,NovaPhone X,2026-01-06,5,The battery easily lasts a full day. Camera photos are stunning in daylight. Loving it! Delivery took the usual time.,Positive
+129,FitPulse Watch,2026-08-11,3,Average product. Tracking is acceptable.,Neutral
+130,BeatBuds Pro,2026-07-30,1,Fairly priced. They hurt my ears after twenty minutes. Total waste of money.,Negative
+131,NovaPhone X,2026-04-08,4,Delivery was quick and well packed. The battery easily lasts a full day. Very happy with this purchase.,Positive
+132,BeatBuds Pro,2026-10-16,3,"Mixed feelings. Sound is okay, nothing special. Comfort is acceptable.",Neutral
+133,BeatBuds Pro,2025-03-09,1,They hurt my ears after twenty minutes. Would not recommend. Battery dies within two hours. Sound is tinny and distorted at high volume.,Negative
+134,AeroBook Air,2026-10-18,4,Absolutely great. Battery barely lasts three hours. Excellent value for a laptop this good. The display is bright and sharp.,Positive
+135,BeatBuds Pro,2025-06-15,1,Too expensive for the quality. Very disappointed.,Negative
+136,AeroBook Air,2026-07-19,3,Mixed feelings. Battery life is decent.,Neutral
+137,AeroBook Air,2025-01-30,5,Battery easily gets me through a workday. Performance is blazing fast for coding. Highly recommended.,Positive
+138,NovaPhone X,2025-11-01,5,The battery easily lasts a full day. Absolutely great. Great value for money. Delivery took the usual time.,Positive
+139,FitPulse Watch,2026-09-14,4,Absolutely great. Fitness tracking is accurate and motivating.,Positive
+140,BeatBuds Pro,2025-05-25,5,Totally worth the price. They hurt my ears after twenty minutes. Absolutely great. Battery lasts for days on one charge.,Positive
+141,NovaPhone X,2026-05-26,4,Highly recommended. Delivery was quick and well packed. The battery easily lasts a full day.,Positive
+142,FitPulse Watch,2025-02-19,5,Amazing features at this price. Battery runs a full week. Loving it!,Positive
+143,NovaPhone X,2026-08-07,5,Camera photos are stunning in daylight. Loving it! Delivery was quick and well packed. The battery easily lasts a full day.,Positive
+144,BeatBuds Pro,2026-02-08,4,Sound quality is crisp with deep bass. Absolutely great. Battery lasts for days on one charge.,Positive
+145,AeroBook Air,2025-12-08,1,Battery barely lasts three hours. Performance lags with multiple tabs open. Would not recommend.,Negative
+146,FitPulse Watch,2026-09-24,1,Total waste of money. Step and heart rate tracking are wildly inaccurate.,Negative
+147,AeroBook Air,2026-10-07,2,Regret buying this. Way too pricey. Battery barely lasts three hours. The display has terrible washed out colors.,Negative
+148,NovaPhone X,2025-09-06,2,Very disappointed. Camera is blurry in low light. Price is about what I expected.,Negative
+149,NovaPhone X,2026-06-16,1,Battery drains way too fast. Regret buying this. Delivery took the usual time. Overpriced for what you get.,Negative
+150,BeatBuds Pro,2025-07-16,1,Total waste of money. Too expensive for the quality. Battery dies within two hours. They hurt my ears after twenty minutes.,Negative
+151,BeatBuds Pro,2026-07-28,5,Very happy with this purchase. Totally worth the price. Battery lasts for days on one charge.,Positive
+152,AeroBook Air,2025-08-08,5,Highly recommended. Battery easily gets me through a workday. Excellent value for a laptop this good. The display is bright and sharp.,Positive
+153,BeatBuds Pro,2025-08-20,3,"Comfort is acceptable. Sound is okay, nothing special. It is okay overall.",Neutral
+154,BeatBuds Pro,2026-05-04,5,Fairly priced. Very comfortable even after hours. Absolutely great.,Positive
+155,BeatBuds Pro,2025-06-30,1,They hurt my ears after twenty minutes. Battery is fine for daily use. Very disappointed.,Negative
+156,NovaPhone X,2026-04-11,3,Delivery took the usual time. Mixed feelings. Battery life is average.,Neutral
+157,FitPulse Watch,2026-04-15,3,Mixed feelings. Amazing features at this price.,Neutral
+158,AeroBook Air,2026-10-17,2,Battery barely lasts three hours. Total waste of money.,Negative
+159,FitPulse Watch,2025-10-01,3,Tracking is acceptable. Battery is okay. Looks sleek and premium on the wrist. It is okay overall.,Neutral
+160,AeroBook Air,2026-01-12,5,Performance is blazing fast for coding. Highly recommended. Battery life is decent. The display is bright and sharp.,Positive
+161,BeatBuds Pro,2026-07-17,5,Highly recommended. Totally worth the price.,Positive
+162,FitPulse Watch,2025-06-03,2,Step and heart rate tracking are wildly inaccurate. Battery needs charging every night. Strap feels cheap and itchy. Regret buying this.,Negative
+163,BeatBuds Pro,2025-11-12,5,Sound quality is crisp with deep bass. Absolutely great. Fairly priced. Very comfortable even after hours.,Positive
+164,NovaPhone X,2025-03-12,5,Camera is blurry in low light. Loving it!,Positive
+165,FitPulse Watch,2026-07-07,5,Absolutely great. Battery runs a full week. Fitness tracking is accurate and motivating.,Positive
+166,BeatBuds Pro,2026-04-20,1,Sound is tinny and distorted at high volume. Too expensive for the quality. Regret buying this.,Negative
+167,FitPulse Watch,2025-04-26,2,Regret buying this. Step and heart rate tracking are wildly inaccurate.,Negative
+168,NovaPhone X,2025-02-15,3,Battery life is average. Does the job. Delivery took the usual time.,Neutral
+169,FitPulse Watch,2026-06-18,4,Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating. Very happy with this purchase. Battery runs a full week.,Positive
+170,BeatBuds Pro,2026-01-26,5,Very comfortable even after hours. Highly recommended. Sound quality is crisp with deep bass.,Positive
+171,AeroBook Air,2026-04-20,1,Way too pricey. The display is average. Regret buying this.,Negative
+172,NovaPhone X,2026-07-03,1,Delivery was late and the box was damaged. Camera is blurry in low light. Would not recommend.,Negative
+173,BeatBuds Pro,2025-12-07,5,Sound quality is crisp with deep bass. Highly recommended. Totally worth the price.,Positive
+174,AeroBook Air,2025-09-06,3,The display is average. Does the job.,Neutral
+175,BeatBuds Pro,2026-01-04,5,Very happy with this purchase. Very comfortable even after hours.,Positive
+176,FitPulse Watch,2025-07-20,5,Battery runs a full week. Fitness tracking is accurate and motivating. Amazing features at this price. Very happy with this purchase.,Positive
+177,AeroBook Air,2025-06-23,5,Excellent value for a laptop this good. Very happy with this purchase. The display is bright and sharp. Battery easily gets me through a workday.,Positive
+178,BeatBuds Pro,2025-05-21,1,Battery dies within two hours. They hurt my ears after twenty minutes. Very disappointed.,Negative
+179,BeatBuds Pro,2026-10-16,4,Highly recommended. Sound quality is crisp with deep bass.,Positive
+180,FitPulse Watch,2025-01-18,1,Regret buying this. Battery is okay.,Negative
+181,FitPulse Watch,2026-06-24,3,Battery is okay. It is okay overall.,Neutral
+182,AeroBook Air,2025-03-24,3,Price is reasonable. Performance is fine for basic tasks. Mixed feelings.,Neutral
+183,NovaPhone X,2025-12-06,5,Great value for money. Delivery was quick and well packed. Absolutely great.,Positive
+184,NovaPhone X,2025-03-18,3,Does the job. Camera is decent for the price.,Neutral
+185,AeroBook Air,2025-09-04,3,Price is reasonable. Performance is fine for basic tasks. It is okay overall. The display is average.,Neutral
+186,FitPulse Watch,2026-09-02,2,Step and heart rate tracking are wildly inaccurate. Battery needs charging every night. Very disappointed. Strap feels cheap and itchy.,Negative
+187,FitPulse Watch,2026-03-19,3,Design is plain but fine. Battery is okay. Mixed feelings.,Neutral
+188,BeatBuds Pro,2025-04-20,1,Would not recommend. Battery dies within two hours. Sound quality is crisp with deep bass. Too expensive for the quality.,Negative
+189,NovaPhone X,2025-04-02,4,Very happy with this purchase. Delivery was quick and well packed. Camera is blurry in low light.,Positive
+190,AeroBook Air,2025-06-23,1,Performance lags with multiple tabs open. Total waste of money. The display has terrible washed out colors. Battery barely lasts three hours.,Negative
+191,BeatBuds Pro,2025-09-10,5,Sound quality is crisp with deep bass. Loving it! Too expensive for the quality.,Positive
+192,FitPulse Watch,2026-01-25,2,Very disappointed. Amazing features at this price.,Negative
+193,AeroBook Air,2025-11-23,4,Very happy with this purchase. Excellent value for a laptop this good. The display is bright and sharp.,Positive
+194,AeroBook Air,2025-07-04,2,Way too pricey. Performance lags with multiple tabs open. Battery barely lasts three hours. Total waste of money.,Negative
+195,NovaPhone X,2025-11-07,3,Mixed feelings. Camera is decent for the price. Delivery was late and the box was damaged.,Neutral
+196,BeatBuds Pro,2026-07-02,5,Absolutely great. Fairly priced.,Positive
+197,FitPulse Watch,2026-10-25,2,Battery needs charging every night. Would not recommend. Not worth the money.,Negative
+198,FitPulse Watch,2026-02-05,3,Amazing features at this price. It is okay overall. Battery is okay.,Neutral
+199,FitPulse Watch,2025-07-31,1,Regret buying this. Not worth the money. Battery is okay. Step and heart rate tracking are wildly inaccurate.,Negative
+200,FitPulse Watch,2025-04-28,4,Absolutely great. Amazing features at this price.,Positive
+201,NovaPhone X,2025-07-08,3,Price is about what I expected. Does the job. Battery life is average. Delivery took the usual time.,Neutral
+202,BeatBuds Pro,2025-03-06,1,Too expensive for the quality. Sound is tinny and distorted at high volume. Would not recommend.,Negative
+203,NovaPhone X,2026-08-25,1,Would not recommend. Camera is blurry in low light. Overpriced for what you get. Delivery was late and the box was damaged.,Negative
+204,NovaPhone X,2025-09-02,5,Camera photos are stunning in daylight. Very happy with this purchase. Great value for money.,Positive
+205,AeroBook Air,2026-07-05,5,Battery barely lasts three hours. Absolutely great. The display is bright and sharp.,Positive
+206,BeatBuds Pro,2025-05-20,1,Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes. Would not recommend.,Negative
+207,BeatBuds Pro,2025-08-19,3,Battery is fine for daily use. Fairly priced. Comfort is acceptable. Average product.,Neutral
+208,AeroBook Air,2026-03-28,5,Loving it! Excellent value for a laptop this good. Battery easily gets me through a workday.,Positive
+209,BeatBuds Pro,2025-12-23,3,Battery is fine for daily use. Mixed feelings.,Neutral
+210,NovaPhone X,2026-10-10,5,Highly recommended. Camera photos are stunning in daylight.,Positive
+211,FitPulse Watch,2026-09-04,5,Highly recommended. Fitness tracking is accurate and motivating.,Positive
+212,BeatBuds Pro,2025-11-26,4,Totally worth the price. Loving it! Battery lasts for days on one charge. They hurt my ears after twenty minutes.,Positive
+213,BeatBuds Pro,2026-04-11,1,Total waste of money. Too expensive for the quality. Battery dies within two hours. Sound quality is crisp with deep bass.,Negative
+214,FitPulse Watch,2026-02-12,4,Absolutely great. Battery runs a full week.,Positive
+215,BeatBuds Pro,2026-08-15,3,Mixed feelings. Fairly priced.,Neutral
+216,BeatBuds Pro,2026-03-28,1,Too expensive for the quality. Very disappointed. Comfort is acceptable.,Negative
+217,FitPulse Watch,2025-09-14,5,Looks sleek and premium on the wrist. Highly recommended. Fitness tracking is accurate and motivating.,Positive
+218,NovaPhone X,2026-05-04,4,Camera photos are stunning in daylight. Delivery was quick and well packed. The battery easily lasts a full day. Very happy with this purchase.,Positive
+219,NovaPhone X,2025-05-16,5,Delivery was late and the box was damaged. Loving it!,Positive
+220,FitPulse Watch,2025-05-27,4,Looks sleek and premium on the wrist. Battery needs charging every night. Loving it!,Positive
+221,NovaPhone X,2025-06-05,2,Camera is blurry in low light. Regret buying this.,Negative
+222,FitPulse Watch,2025-05-24,1,Very disappointed. Battery needs charging every night. Fitness tracking is accurate and motivating.,Negative
+223,BeatBuds Pro,2025-07-30,5,Battery lasts for days on one charge. Very happy with this purchase.,Positive
+224,BeatBuds Pro,2026-01-05,1,Sound is tinny and distorted at high volume. Regret buying this. Too expensive for the quality.,Negative
+225,AeroBook Air,2026-02-12,4,The display is bright and sharp. Performance is blazing fast for coding. Excellent value for a laptop this good. Absolutely great.,Positive
+226,AeroBook Air,2025-12-01,2,Way too pricey. Battery easily gets me through a workday. Very disappointed. The display has terrible washed out colors.,Negative
+227,FitPulse Watch,2025-05-21,1,Step and heart rate tracking are wildly inaccurate. Design is plain but fine. Battery runs a full week. Would not recommend.,Negative
+228,NovaPhone X,2025-10-06,5,Overpriced for what you get. The battery easily lasts a full day. Very happy with this purchase.,Positive
+229,NovaPhone X,2026-06-06,4,Battery life is average. Great value for money. Camera photos are stunning in daylight. Very happy with this purchase.,Positive
+230,NovaPhone X,2025-02-06,4,Loving it! Camera photos are stunning in daylight.,Positive
+231,FitPulse Watch,2025-05-03,5,Amazing features at this price. Very happy with this purchase.,Positive
+232,NovaPhone X,2025-07-25,4,Delivery was quick and well packed. The battery easily lasts a full day. Camera photos are stunning in daylight. Absolutely great.,Positive
+233,AeroBook Air,2026-02-24,1,The display has terrible washed out colors. Way too pricey. Total waste of money.,Negative
+234,NovaPhone X,2026-06-27,4,Loving it! The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+235,BeatBuds Pro,2026-04-15,5,Very happy with this purchase. Battery lasts for days on one charge.,Positive
+236,NovaPhone X,2025-12-01,1,Very disappointed. Price is about what I expected. Delivery was late and the box was damaged. Camera is blurry in low light.,Negative
+237,AeroBook Air,2025-06-18,4,Performance is fine for basic tasks. Highly recommended.,Positive
+238,FitPulse Watch,2025-04-03,5,Very happy with this purchase. Looks sleek and premium on the wrist. Battery runs a full week.,Positive
+239,BeatBuds Pro,2025-11-03,3,"Mixed feelings. Fairly priced. Sound is okay, nothing special.",Neutral
+240,AeroBook Air,2025-04-15,3,Performance is fine for basic tasks. Average product.,Neutral
+241,BeatBuds Pro,2026-10-23,5,Highly recommended. Battery dies within two hours.,Positive
+242,NovaPhone X,2025-02-13,1,Battery life is average. Delivery was late and the box was damaged. Very disappointed.,Negative
+243,FitPulse Watch,2025-02-05,5,Absolutely great. Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating. Price is average.,Positive
+244,BeatBuds Pro,2025-09-13,2,They hurt my ears after twenty minutes. Regret buying this. Too expensive for the quality.,Negative
+245,NovaPhone X,2025-01-31,3,Camera is decent for the price. Delivery took the usual time. Mixed feelings. Price is about what I expected.,Neutral
+246,AeroBook Air,2025-02-27,5,Price is reasonable. Battery easily gets me through a workday. Highly recommended.,Positive
+247,BeatBuds Pro,2025-12-27,1,Would not recommend. They hurt my ears after twenty minutes. Sound is tinny and distorted at high volume.,Negative
+248,BeatBuds Pro,2026-09-09,1,Totally worth the price. Total waste of money.,Negative
+249,BeatBuds Pro,2025-06-01,4,Battery lasts for days on one charge. Sound quality is crisp with deep bass. Highly recommended.,Positive
+250,BeatBuds Pro,2026-10-27,1,Regret buying this. Battery dies within two hours. Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes.,Negative
+251,AeroBook Air,2025-07-06,5,Price is reasonable. Battery easily gets me through a workday. Performance is blazing fast for coding. Absolutely great.,Positive
+252,AeroBook Air,2026-10-17,3,Performance is fine for basic tasks. Average product. Battery barely lasts three hours. The display is average.,Neutral
+253,AeroBook Air,2026-03-25,4,The display is bright and sharp. Loving it! Performance is blazing fast for coding.,Positive
+254,FitPulse Watch,2025-03-17,3,Price is average. Mixed feelings. Step and heart rate tracking are wildly inaccurate.,Neutral
+255,NovaPhone X,2025-12-13,5,Great value for money. The battery easily lasts a full day. Loving it!,Positive
+256,FitPulse Watch,2026-07-08,2,Strap feels cheap and itchy. Fitness tracking is accurate and motivating. Regret buying this.,Negative
+257,AeroBook Air,2025-01-04,1,Performance lags with multiple tabs open. Very disappointed. The display has terrible washed out colors.,Negative
+258,FitPulse Watch,2026-05-16,5,Battery runs a full week. Amazing features at this price. Loving it! Looks sleek and premium on the wrist.,Positive
+259,AeroBook Air,2025-03-05,5,Performance is blazing fast for coding. Absolutely great. Excellent value for a laptop this good. The display is bright and sharp.,Positive
+260,BeatBuds Pro,2026-05-02,2,Regret buying this. Sound is tinny and distorted at high volume. Too expensive for the quality. Battery dies within two hours.,Negative
+261,BeatBuds Pro,2025-06-27,4,Totally worth the price. Loving it!,Positive
+262,BeatBuds Pro,2025-06-01,3,It is okay overall. Battery is fine for daily use.,Neutral
+263,AeroBook Air,2025-06-03,4,The display is bright and sharp. Performance is blazing fast for coding. Excellent value for a laptop this good. Absolutely great.,Positive
+264,BeatBuds Pro,2026-04-30,2,Total waste of money. They hurt my ears after twenty minutes. Sound is tinny and distorted at high volume. Too expensive for the quality.,Negative
+265,NovaPhone X,2025-01-21,5,Great value for money. Camera is blurry in low light. Absolutely great.,Positive
+266,AeroBook Air,2026-03-30,3,Battery life is decent. The display is average. Average product.,Neutral
+267,AeroBook Air,2025-02-27,5,Absolutely great. Performance is blazing fast for coding. Excellent value for a laptop this good.,Positive
+268,BeatBuds Pro,2025-10-08,5,Sound quality is crisp with deep bass. Totally worth the price. Highly recommended. Very comfortable even after hours.,Positive
+269,AeroBook Air,2025-09-22,3,It is okay overall. Price is reasonable. Battery life is decent. Performance is fine for basic tasks.,Neutral
+270,NovaPhone X,2026-02-24,5,The battery easily lasts a full day. Highly recommended. Delivery was quick and well packed.,Positive
+271,NovaPhone X,2025-12-24,3,Does the job. Battery life is average. Delivery took the usual time. Camera is blurry in low light.,Neutral
+272,FitPulse Watch,2025-04-21,5,Absolutely great. Price is average. Looks sleek and premium on the wrist.,Positive
+273,FitPulse Watch,2026-06-14,4,Very happy with this purchase. Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating.,Positive
+274,BeatBuds Pro,2025-02-06,3,Does the job. Battery is fine for daily use. Fairly priced. Comfort is acceptable.,Neutral
+275,BeatBuds Pro,2025-09-22,5,Very comfortable even after hours. Very happy with this purchase. Totally worth the price. Battery lasts for days on one charge.,Positive
+276,BeatBuds Pro,2026-08-23,3,"Mixed feelings. Fairly priced. Sound is okay, nothing special.",Neutral
+277,AeroBook Air,2026-05-28,5,Excellent value for a laptop this good. Loving it!,Positive
+278,NovaPhone X,2025-05-27,3,It is okay overall. Camera photos are stunning in daylight. Price is about what I expected.,Neutral
+279,AeroBook Air,2025-03-01,3,Performance is fine for basic tasks. Average product.,Neutral
+280,NovaPhone X,2026-03-21,4,Camera photos are stunning in daylight. Highly recommended.,Positive
+281,FitPulse Watch,2025-01-19,5,Battery runs a full week. Amazing features at this price. Loving it!,Positive
+282,NovaPhone X,2026-08-26,2,Camera is blurry in low light. Total waste of money.,Negative
+283,AeroBook Air,2025-05-18,5,Very happy with this purchase. Battery easily gets me through a workday.,Positive
+284,AeroBook Air,2025-05-15,3,Performance is fine for basic tasks. Does the job. Battery life is decent.,Neutral
+285,BeatBuds Pro,2025-01-21,1,Battery dies within two hours. Too expensive for the quality. Sound is tinny and distorted at high volume. Very disappointed.,Negative
+286,NovaPhone X,2026-10-08,2,Delivery was late and the box was damaged. Camera is blurry in low light. Very disappointed.,Negative
+287,NovaPhone X,2025-07-23,4,Great value for money. Camera photos are stunning in daylight. The battery easily lasts a full day. Highly recommended.,Positive
+288,BeatBuds Pro,2025-04-02,1,Too expensive for the quality. Total waste of money. Battery is fine for daily use. They hurt my ears after twenty minutes.,Negative
+289,NovaPhone X,2025-04-13,3,It is okay overall. Battery drains way too fast. Delivery took the usual time. Price is about what I expected.,Neutral
+290,BeatBuds Pro,2025-06-24,3,Comfort is acceptable. Totally worth the price. Mixed feelings.,Neutral
+291,AeroBook Air,2025-10-06,5,Excellent value for a laptop this good. Battery easily gets me through a workday. Loving it!,Positive
+292,FitPulse Watch,2026-05-10,2,Price is average. Strap feels cheap and itchy. Would not recommend.,Negative
+293,FitPulse Watch,2025-04-26,5,Looks sleek and premium on the wrist. Loving it! Amazing features at this price.,Positive
+294,FitPulse Watch,2026-06-16,5,Design is plain but fine. Very happy with this purchase.,Positive
+295,NovaPhone X,2026-05-23,5,Camera is decent for the price. Great value for money. Delivery was quick and well packed. Absolutely great.,Positive
+296,BeatBuds Pro,2025-03-22,5,Very happy with this purchase. Very comfortable even after hours. Sound quality is crisp with deep bass.,Positive
+297,FitPulse Watch,2026-07-25,5,Battery runs a full week. Amazing features at this price. Fitness tracking is accurate and motivating. Absolutely great.,Positive
+298,NovaPhone X,2026-01-08,3,Average product. Delivery took the usual time. Price is about what I expected. The battery easily lasts a full day.,Neutral
+299,FitPulse Watch,2026-05-20,4,Fitness tracking is accurate and motivating. Very happy with this purchase. Amazing features at this price. Battery runs a full week.,Positive
+300,BeatBuds Pro,2025-02-17,3,"Does the job. Battery is fine for daily use. Sound is okay, nothing special. Too expensive for the quality.",Neutral
+301,NovaPhone X,2026-06-05,1,Price is about what I expected. Delivery was late and the box was damaged. Would not recommend.,Negative
+302,BeatBuds Pro,2026-03-05,1,Very disappointed. Battery dies within two hours.,Negative
+303,BeatBuds Pro,2025-11-18,5,Highly recommended. Comfort is acceptable. Battery lasts for days on one charge.,Positive
+304,BeatBuds Pro,2026-05-07,5,Very comfortable even after hours. Highly recommended. Battery lasts for days on one charge. Totally worth the price.,Positive
+305,FitPulse Watch,2025-10-30,1,Very disappointed. Looks sleek and premium on the wrist. Battery runs a full week. Fitness tracking is accurate and motivating.,Negative
+306,BeatBuds Pro,2026-07-29,2,Comfort is acceptable. Regret buying this.,Negative
+307,FitPulse Watch,2025-09-15,4,Looks sleek and premium on the wrist. Absolutely great. Battery runs a full week. Amazing features at this price.,Positive
+308,BeatBuds Pro,2025-10-29,1,Battery dies within two hours. Total waste of money. They hurt my ears after twenty minutes.,Negative
+309,FitPulse Watch,2026-04-23,4,Amazing features at this price. Looks sleek and premium on the wrist. Loving it! Battery runs a full week.,Positive
+310,BeatBuds Pro,2026-06-23,5,Very comfortable even after hours. Very happy with this purchase. Sound quality is crisp with deep bass.,Positive
+311,BeatBuds Pro,2025-10-28,3,"Average product. Fairly priced. Comfort is acceptable. Sound is okay, nothing special.",Neutral
+312,BeatBuds Pro,2026-01-31,3,"Comfort is acceptable. Sound is okay, nothing special. It is okay overall. Fairly priced.",Neutral
+313,AeroBook Air,2025-07-17,2,Battery barely lasts three hours. Total waste of money. Performance lags with multiple tabs open.,Negative
+314,AeroBook Air,2025-08-07,2,The display has terrible washed out colors. Very disappointed.,Negative
+315,FitPulse Watch,2025-12-06,3,Price is average. It is okay overall.,Neutral
+316,NovaPhone X,2026-02-02,5,Camera photos are stunning in daylight. Very happy with this purchase.,Positive
+317,FitPulse Watch,2025-02-16,2,Strap feels cheap and itchy. Regret buying this. Battery needs charging every night.,Negative
+318,NovaPhone X,2025-05-20,5,Camera photos are stunning in daylight. Great value for money. The battery easily lasts a full day. Loving it!,Positive
+319,FitPulse Watch,2025-01-06,1,Strap feels cheap and itchy. Battery needs charging every night. Total waste of money. Not worth the money.,Negative
+320,FitPulse Watch,2026-10-24,1,Would not recommend. Strap feels cheap and itchy.,Negative
+321,BeatBuds Pro,2026-10-23,5,Comfort is acceptable. Highly recommended.,Positive
+322,NovaPhone X,2025-05-12,5,Loving it! Price is about what I expected.,Positive
+323,BeatBuds Pro,2025-06-22,5,Absolutely great. Battery lasts for days on one charge. Totally worth the price. Sound quality is crisp with deep bass.,Positive
+324,NovaPhone X,2025-12-06,5,Delivery was quick and well packed. Very happy with this purchase.,Positive
+325,FitPulse Watch,2026-10-04,5,Design is plain but fine. Step and heart rate tracking are wildly inaccurate. Loving it!,Positive
+326,NovaPhone X,2025-09-24,2,Battery drains way too fast. Regret buying this.,Negative
+327,FitPulse Watch,2026-05-29,1,Regret buying this. Strap feels cheap and itchy.,Negative
+328,NovaPhone X,2025-08-13,5,Highly recommended. Delivery took the usual time. Great value for money. The battery easily lasts a full day.,Positive
+329,FitPulse Watch,2025-02-17,5,Loving it! Battery runs a full week. Looks sleek and premium on the wrist.,Positive
+330,NovaPhone X,2026-01-23,3,Battery life is average. Mixed feelings. Price is about what I expected.,Neutral
+331,AeroBook Air,2025-12-28,1,Battery barely lasts three hours. Regret buying this.,Negative
+332,AeroBook Air,2025-07-11,4,Highly recommended. Performance is blazing fast for coding. Battery easily gets me through a workday.,Positive
+333,BeatBuds Pro,2026-10-25,5,Very comfortable even after hours. Absolutely great. Sound quality is crisp with deep bass. Totally worth the price.,Positive
+334,FitPulse Watch,2025-02-27,5,Tracking is acceptable. Highly recommended.,Positive
+335,BeatBuds Pro,2026-04-05,4,Loving it! Totally worth the price.,Positive
+336,FitPulse Watch,2026-06-08,3,Tracking is acceptable. Average product.,Neutral
+337,AeroBook Air,2026-09-22,4,Battery easily gets me through a workday. The display is bright and sharp. Highly recommended. Performance is blazing fast for coding.,Positive
+338,NovaPhone X,2026-06-27,3,Does the job. Battery life is average. Delivery took the usual time. Camera is decent for the price.,Neutral
+339,FitPulse Watch,2026-07-11,5,Amazing features at this price. Fitness tracking is accurate and motivating. Loving it!,Positive
+340,FitPulse Watch,2025-11-20,5,Loving it! Battery runs a full week.,Positive
+341,FitPulse Watch,2026-09-19,5,Very happy with this purchase. Amazing features at this price.,Positive
+342,AeroBook Air,2026-02-12,3,Average product. Price is reasonable. The display is average.,Neutral
+343,BeatBuds Pro,2026-10-14,3,"Comfort is acceptable. Average product. Sound is okay, nothing special. Fairly priced.",Neutral
+344,NovaPhone X,2026-09-16,3,Delivery was late and the box was damaged. Average product.,Neutral
+345,NovaPhone X,2025-07-26,1,Very disappointed. Overpriced for what you get. Delivery was late and the box was damaged.,Negative
+346,AeroBook Air,2026-02-09,5,Performance is blazing fast for coding. Battery easily gets me through a workday. The display is bright and sharp. Loving it!,Positive
+347,FitPulse Watch,2025-07-19,2,Very disappointed. Not worth the money. Battery needs charging every night. Strap feels cheap and itchy.,Negative
+348,FitPulse Watch,2025-09-14,3,Price is average. Battery is okay. Average product. Tracking is acceptable.,Neutral
+349,FitPulse Watch,2026-10-11,3,Battery is okay. Price is average. Average product. Tracking is acceptable.,Neutral
+350,BeatBuds Pro,2025-09-12,1,They hurt my ears after twenty minutes. Regret buying this.,Negative
+351,AeroBook Air,2025-07-24,5,Excellent value for a laptop this good. Absolutely great. Performance is blazing fast for coding. Battery easily gets me through a workday.,Positive
+352,BeatBuds Pro,2025-03-22,1,Sound is tinny and distorted at high volume. Would not recommend. Battery dies within two hours.,Negative
+353,FitPulse Watch,2026-02-12,1,Strap feels cheap and itchy. Total waste of money. Battery needs charging every night. Step and heart rate tracking are wildly inaccurate.,Negative
+354,BeatBuds Pro,2026-02-08,1,Sound is tinny and distorted at high volume. Regret buying this.,Negative
+355,BeatBuds Pro,2026-01-24,5,Totally worth the price. Very happy with this purchase.,Positive
+356,NovaPhone X,2026-01-17,4,Highly recommended. The battery easily lasts a full day. Camera photos are stunning in daylight. Great value for money.,Positive
+357,AeroBook Air,2026-03-19,3,Performance is fine for basic tasks. Price is reasonable. Does the job.,Neutral
+358,FitPulse Watch,2026-08-05,5,Highly recommended. Battery runs a full week. Fitness tracking is accurate and motivating. Price is average.,Positive
+359,NovaPhone X,2026-07-25,5,Very happy with this purchase. Great value for money. Camera photos are stunning in daylight. The battery easily lasts a full day.,Positive
+360,AeroBook Air,2025-11-29,5,Performance is blazing fast for coding. Highly recommended. The display is bright and sharp.,Positive
+361,FitPulse Watch,2026-09-20,2,Step and heart rate tracking are wildly inaccurate. Battery needs charging every night. Total waste of money.,Negative
+362,FitPulse Watch,2025-10-26,3,Does the job. Battery is okay.,Neutral
+363,AeroBook Air,2025-01-24,1,Total waste of money. The display has terrible washed out colors. Battery barely lasts three hours.,Negative
+364,BeatBuds Pro,2026-09-25,1,Too expensive for the quality. Sound is tinny and distorted at high volume. Very comfortable even after hours. Would not recommend.,Negative
+365,BeatBuds Pro,2025-01-30,5,Very comfortable even after hours. Sound quality is crisp with deep bass. Highly recommended.,Positive
+366,NovaPhone X,2026-04-13,2,Delivery was late and the box was damaged. Total waste of money. Camera is decent for the price.,Negative
+367,FitPulse Watch,2026-06-20,1,Not worth the money. Strap feels cheap and itchy. Would not recommend. Step and heart rate tracking are wildly inaccurate.,Negative
+368,BeatBuds Pro,2025-08-25,5,Very comfortable even after hours. Sound quality is crisp with deep bass. Absolutely great.,Positive
+369,NovaPhone X,2026-10-24,2,Delivery was late and the box was damaged. Regret buying this.,Negative
+370,FitPulse Watch,2025-10-06,3,Design is plain but fine. It is okay overall.,Neutral
+371,AeroBook Air,2025-01-20,1,Very disappointed. Battery barely lasts three hours. Performance lags with multiple tabs open. The display has terrible washed out colors.,Negative
+372,BeatBuds Pro,2025-08-11,4,Very comfortable even after hours. Totally worth the price. Very happy with this purchase. Sound quality is crisp with deep bass.,Positive
+373,AeroBook Air,2025-03-15,5,Battery easily gets me through a workday. The display is bright and sharp. Loving it!,Positive
+374,FitPulse Watch,2025-02-04,4,Loving it! Battery runs a full week. Amazing features at this price.,Positive
+375,BeatBuds Pro,2026-10-07,5,Absolutely great. Battery lasts for days on one charge.,Positive
+376,NovaPhone X,2025-06-21,1,Camera is blurry in low light. The battery easily lasts a full day. Overpriced for what you get. Total waste of money.,Negative
+377,AeroBook Air,2025-09-12,1,The display has terrible washed out colors. Very disappointed. Performance lags with multiple tabs open.,Negative
+378,BeatBuds Pro,2026-10-23,5,Fairly priced. Loving it! Sound quality is crisp with deep bass. Very comfortable even after hours.,Positive
+379,AeroBook Air,2026-07-10,3,Average product. Performance is blazing fast for coding. The display is average.,Neutral
+380,FitPulse Watch,2025-06-14,5,Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+381,NovaPhone X,2025-01-20,1,Total waste of money. Overpriced for what you get. Camera is blurry in low light.,Negative
+382,AeroBook Air,2026-05-25,2,Very disappointed. Battery barely lasts three hours.,Negative
+383,BeatBuds Pro,2025-07-26,1,Fairly priced. They hurt my ears after twenty minutes. Total waste of money.,Negative
+384,NovaPhone X,2025-08-15,4,Absolutely great. The battery easily lasts a full day.,Positive
+385,NovaPhone X,2026-03-02,5,Delivery was quick and well packed. Loving it!,Positive
+386,AeroBook Air,2026-06-16,1,Very disappointed. Battery barely lasts three hours.,Negative
+387,NovaPhone X,2025-07-03,5,Delivery took the usual time. Highly recommended.,Positive
+388,FitPulse Watch,2026-03-30,2,Strap feels cheap and itchy. Regret buying this. Step and heart rate tracking are wildly inaccurate. Amazing features at this price.,Negative
+389,AeroBook Air,2026-04-04,3,Average product. The display is average. Price is reasonable. Battery life is decent.,Neutral
+390,FitPulse Watch,2025-08-16,4,Loving it! Looks sleek and premium on the wrist.,Positive
+391,BeatBuds Pro,2025-09-29,3,Does the job. They hurt my ears after twenty minutes.,Neutral
+392,AeroBook Air,2026-08-06,3,The display is average. Mixed feelings.,Neutral
+393,BeatBuds Pro,2026-08-14,2,Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes. Battery dies within two hours. Regret buying this.,Negative
+394,FitPulse Watch,2025-08-21,5,Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+395,NovaPhone X,2026-02-07,2,Camera is blurry in low light. Battery drains way too fast. Very disappointed. Delivery was late and the box was damaged.,Negative
+396,FitPulse Watch,2026-02-13,1,Tracking is acceptable. Battery needs charging every night. Not worth the money. Total waste of money.,Negative
+397,FitPulse Watch,2026-08-09,2,Regret buying this. Step and heart rate tracking are wildly inaccurate.,Negative
+398,BeatBuds Pro,2025-12-23,1,Sound is tinny and distorted at high volume. Battery dies within two hours. They hurt my ears after twenty minutes. Total waste of money.,Negative
+399,BeatBuds Pro,2026-01-18,4,Battery lasts for days on one charge. Very happy with this purchase. Totally worth the price. Sound quality is crisp with deep bass.,Positive
+400,BeatBuds Pro,2025-12-18,1,Sound is tinny and distorted at high volume. Very disappointed.,Negative
+401,NovaPhone X,2026-09-30,5,Highly recommended. The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+402,BeatBuds Pro,2025-03-10,1,Too expensive for the quality. Sound is tinny and distorted at high volume. Total waste of money. Battery dies within two hours.,Negative
+403,FitPulse Watch,2026-09-04,1,Strap feels cheap and itchy. Total waste of money. Battery needs charging every night. Not worth the money.,Negative
+404,NovaPhone X,2025-12-27,4,Delivery was quick and well packed. Loving it! Great value for money. The battery easily lasts a full day.,Positive
+405,AeroBook Air,2025-10-14,2,Very disappointed. Battery barely lasts three hours.,Negative
+406,BeatBuds Pro,2026-08-10,5,Battery lasts for days on one charge. Absolutely great. Sound quality is crisp with deep bass.,Positive
+407,BeatBuds Pro,2026-06-21,4,Very comfortable even after hours. Highly recommended. Battery is fine for daily use.,Positive
+408,BeatBuds Pro,2025-05-30,4,Battery is fine for daily use. Very happy with this purchase.,Positive
+409,NovaPhone X,2025-04-20,1,Regret buying this. Delivery was late and the box was damaged. Camera is blurry in low light.,Negative
+410,BeatBuds Pro,2026-01-18,5,Totally worth the price. Very comfortable even after hours. Highly recommended. Sound quality is crisp with deep bass.,Positive
+411,BeatBuds Pro,2025-07-27,3,"Sound is okay, nothing special. Totally worth the price. Does the job.",Neutral
+412,BeatBuds Pro,2026-01-25,4,Very happy with this purchase. Very comfortable even after hours. Totally worth the price.,Positive
+413,AeroBook Air,2026-07-26,5,Absolutely great. Excellent value for a laptop this good. Battery easily gets me through a workday. Performance is blazing fast for coding.,Positive
+414,FitPulse Watch,2025-02-25,2,Not worth the money. Battery needs charging every night. Regret buying this. Step and heart rate tracking are wildly inaccurate.,Negative
+415,BeatBuds Pro,2025-01-26,5,Highly recommended. Sound quality is crisp with deep bass. Very comfortable even after hours. Totally worth the price.,Positive
+416,BeatBuds Pro,2026-04-06,4,Sound quality is crisp with deep bass. Very happy with this purchase. Totally worth the price. Battery lasts for days on one charge.,Positive
+417,AeroBook Air,2025-02-22,4,Performance is blazing fast for coding. Battery easily gets me through a workday. Absolutely great. Excellent value for a laptop this good.,Positive
+418,FitPulse Watch,2025-01-06,5,Battery needs charging every night. Fitness tracking is accurate and motivating. Amazing features at this price. Loving it!,Positive
+419,FitPulse Watch,2026-10-31,4,Looks sleek and premium on the wrist. Tracking is acceptable. Absolutely great. Price is average.,Positive
+420,AeroBook Air,2025-07-02,4,Battery easily gets me through a workday. Very happy with this purchase.,Positive
+421,BeatBuds Pro,2025-05-18,1,Too expensive for the quality. They hurt my ears after twenty minutes. Battery dies within two hours. Very disappointed.,Negative
+422,NovaPhone X,2026-10-07,2,Overpriced for what you get. Regret buying this. Delivery was late and the box was damaged.,Negative
+423,NovaPhone X,2026-10-10,5,Very happy with this purchase. Delivery was quick and well packed. Camera photos are stunning in daylight. Great value for money.,Positive
+424,FitPulse Watch,2026-04-22,4,Fitness tracking is accurate and motivating. Very happy with this purchase.,Positive
+425,NovaPhone X,2025-07-26,2,Delivery was late and the box was damaged. Regret buying this.,Negative
+426,AeroBook Air,2025-12-08,4,Very happy with this purchase. Battery easily gets me through a workday.,Positive
+427,AeroBook Air,2026-10-05,5,Performance is blazing fast for coding. Excellent value for a laptop this good. Very happy with this purchase. Battery easily gets me through a workday.,Positive
+428,FitPulse Watch,2025-12-06,3,Design is plain but fine. It is okay overall. Price is average. Tracking is acceptable.,Neutral
+429,AeroBook Air,2025-06-19,5,Loving it! Battery easily gets me through a workday.,Positive
+430,FitPulse Watch,2026-05-24,5,Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+431,BeatBuds Pro,2025-01-26,5,Battery dies within two hours. Very comfortable even after hours. Very happy with this purchase.,Positive
+432,FitPulse Watch,2025-04-11,3,Mixed feelings. Tracking is acceptable.,Neutral
+433,BeatBuds Pro,2025-02-15,4,Totally worth the price. Absolutely great.,Positive
+434,NovaPhone X,2025-07-17,5,Battery drains way too fast. Very happy with this purchase.,Positive
+435,AeroBook Air,2025-12-25,4,Excellent value for a laptop this good. Battery easily gets me through a workday. Loving it!,Positive
+436,AeroBook Air,2025-02-21,5,Battery life is decent. Excellent value for a laptop this good. Performance is blazing fast for coding. Highly recommended.,Positive
+437,NovaPhone X,2025-11-16,5,Absolutely great. Delivery took the usual time.,Positive
+438,AeroBook Air,2025-08-18,3,It is okay overall. The display is average. Performance is fine for basic tasks. Price is reasonable.,Neutral
+439,BeatBuds Pro,2026-05-02,3,Does the job. Fairly priced. Comfort is acceptable. Battery is fine for daily use.,Neutral
+440,NovaPhone X,2026-10-28,5,Delivery was quick and well packed. Very happy with this purchase. Camera photos are stunning in daylight.,Positive
+441,NovaPhone X,2026-08-29,2,Camera is blurry in low light. Delivery was late and the box was damaged. Would not recommend. Overpriced for what you get.,Negative
+442,FitPulse Watch,2026-09-03,2,Would not recommend. Design is plain but fine. Price is average.,Negative
+443,FitPulse Watch,2025-04-22,4,Highly recommended. Amazing features at this price.,Positive
+444,FitPulse Watch,2025-10-26,5,Battery runs a full week. Amazing features at this price. Looks sleek and premium on the wrist. Highly recommended.,Positive
+445,FitPulse Watch,2025-12-19,2,Total waste of money. Step and heart rate tracking are wildly inaccurate. Battery needs charging every night.,Negative
+446,NovaPhone X,2026-03-19,1,Camera is decent for the price. Delivery was late and the box was damaged. Very disappointed. Battery drains way too fast.,Negative
+447,FitPulse Watch,2025-06-07,1,Regret buying this. Strap feels cheap and itchy. Step and heart rate tracking are wildly inaccurate. Not worth the money.,Negative
+448,AeroBook Air,2026-04-12,3,Battery life is decent. Performance lags with multiple tabs open. It is okay overall. The display is average.,Neutral
+449,FitPulse Watch,2025-08-31,1,Strap feels cheap and itchy. Regret buying this. Not worth the money.,Negative
+450,AeroBook Air,2025-03-22,5,Performance lags with multiple tabs open. Battery easily gets me through a workday. Excellent value for a laptop this good. Absolutely great.,Positive
+451,NovaPhone X,2025-10-29,5,Loving it! The battery easily lasts a full day. Great value for money. Camera is blurry in low light.,Positive
+452,AeroBook Air,2025-03-26,5,Battery easily gets me through a workday. Loving it! The display is bright and sharp. Excellent value for a laptop this good.,Positive
+453,BeatBuds Pro,2026-08-29,1,They hurt my ears after twenty minutes. Total waste of money. Sound is tinny and distorted at high volume.,Negative
+454,BeatBuds Pro,2026-09-02,1,Too expensive for the quality. Battery dies within two hours. Would not recommend.,Negative
+455,BeatBuds Pro,2025-09-28,3,"Average product. Fairly priced. Sound is okay, nothing special.",Neutral
+456,NovaPhone X,2026-02-04,5,Delivery was quick and well packed. Very happy with this purchase. Camera photos are stunning in daylight.,Positive
+457,FitPulse Watch,2026-10-30,5,Battery runs a full week. Amazing features at this price. Fitness tracking is accurate and motivating. Absolutely great.,Positive
+458,AeroBook Air,2025-07-04,5,Performance is blazing fast for coding. The display is bright and sharp. Absolutely great.,Positive
+459,AeroBook Air,2026-09-27,1,Battery barely lasts three hours. Regret buying this. Performance is blazing fast for coding. Way too pricey.,Negative
+460,NovaPhone X,2026-04-24,5,The battery easily lasts a full day. Price is about what I expected. Loving it! Camera is decent for the price.,Positive
+461,NovaPhone X,2025-12-07,1,Overpriced for what you get. Total waste of money. Delivery was late and the box was damaged.,Negative
+462,NovaPhone X,2026-05-19,4,Loving it! Camera photos are stunning in daylight. Delivery was quick and well packed.,Positive
+463,NovaPhone X,2026-08-09,4,Camera photos are stunning in daylight. Great value for money. Loving it!,Positive
+464,AeroBook Air,2026-02-04,2,Way too pricey. Would not recommend.,Negative
+465,AeroBook Air,2025-03-13,5,Loving it! Battery easily gets me through a workday. Excellent value for a laptop this good.,Positive
+466,BeatBuds Pro,2025-10-24,4,Battery lasts for days on one charge. Sound quality is crisp with deep bass. Totally worth the price. Very happy with this purchase.,Positive
+467,BeatBuds Pro,2026-01-03,4,Highly recommended. Totally worth the price.,Positive
+468,FitPulse Watch,2025-11-12,5,Looks sleek and premium on the wrist. Highly recommended. Amazing features at this price. Battery runs a full week.,Positive
+469,FitPulse Watch,2025-06-02,2,Amazing features at this price. Battery is okay. Total waste of money.,Negative
+470,BeatBuds Pro,2025-09-06,3,Average product. Battery is fine for daily use.,Neutral
+471,BeatBuds Pro,2026-03-13,4,Battery lasts for days on one charge. Totally worth the price. Sound quality is crisp with deep bass. Absolutely great.,Positive
+472,AeroBook Air,2025-05-04,3,Price is reasonable. Performance is fine for basic tasks. The display is average. Does the job.,Neutral
+473,AeroBook Air,2026-10-10,4,The display is bright and sharp. Very happy with this purchase. Battery easily gets me through a workday.,Positive
+474,FitPulse Watch,2026-08-31,2,Amazing features at this price. Very disappointed.,Negative
+475,AeroBook Air,2025-02-08,4,Performance is blazing fast for coding. Highly recommended. The display is bright and sharp.,Positive
+476,BeatBuds Pro,2025-08-13,2,Battery is fine for daily use. Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes. Total waste of money.,Negative
+477,FitPulse Watch,2025-02-14,2,Not worth the money. Would not recommend. Fitness tracking is accurate and motivating. Battery needs charging every night.,Negative
+478,NovaPhone X,2025-02-23,2,Delivery was late and the box was damaged. Total waste of money. Camera is blurry in low light.,Negative
+479,BeatBuds Pro,2025-11-30,5,Loving it! Totally worth the price.,Positive
+480,FitPulse Watch,2026-08-23,4,Battery runs a full week. Very happy with this purchase. Amazing features at this price. Looks sleek and premium on the wrist.,Positive
+481,FitPulse Watch,2025-12-10,5,Battery is okay. Step and heart rate tracking are wildly inaccurate. Absolutely great.,Positive
+482,BeatBuds Pro,2025-06-24,5,Battery lasts for days on one charge. Loving it! Too expensive for the quality. Sound quality is crisp with deep bass.,Positive
+483,BeatBuds Pro,2025-08-16,5,Sound quality is crisp with deep bass. Battery lasts for days on one charge. Absolutely great. Totally worth the price.,Positive
+484,BeatBuds Pro,2026-02-08,3,Too expensive for the quality. It is okay overall.,Neutral
+485,FitPulse Watch,2026-10-26,3,Tracking is acceptable. Design is plain but fine. Does the job. Battery runs a full week.,Neutral
+486,NovaPhone X,2026-10-11,5,The battery easily lasts a full day. Great value for money. Loving it! Camera is decent for the price.,Positive
+487,NovaPhone X,2026-09-20,3,Mixed feelings. Delivery took the usual time.,Neutral
+488,BeatBuds Pro,2026-01-28,1,Very disappointed. They hurt my ears after twenty minutes.,Negative
+489,AeroBook Air,2025-07-29,5,Battery life is decent. Very happy with this purchase.,Positive
+490,BeatBuds Pro,2025-11-25,3,"Sound is okay, nothing special. Average product.",Neutral
+491,AeroBook Air,2026-01-12,3,Performance is fine for basic tasks. The display is average. Price is reasonable. It is okay overall.,Neutral
+492,NovaPhone X,2025-04-25,4,The battery easily lasts a full day. Delivery was quick and well packed. Absolutely great.,Positive
+493,BeatBuds Pro,2026-03-07,5,Sound quality is crisp with deep bass. Very happy with this purchase.,Positive
+494,FitPulse Watch,2025-12-18,2,Would not recommend. Looks sleek and premium on the wrist.,Negative
+495,AeroBook Air,2025-06-01,5,Highly recommended. The display is bright and sharp. Battery easily gets me through a workday. Excellent value for a laptop this good.,Positive
+496,AeroBook Air,2025-04-30,4,The display is bright and sharp. Very happy with this purchase.,Positive
+497,NovaPhone X,2025-06-16,3,Price is about what I expected. Camera is decent for the price. Mixed feelings. Delivery took the usual time.,Neutral
+498,AeroBook Air,2025-01-05,5,Absolutely great. Excellent value for a laptop this good.,Positive
+499,AeroBook Air,2026-05-06,1,Would not recommend. The display has terrible washed out colors. Way too pricey.,Negative
+500,NovaPhone X,2025-08-16,5,The battery easily lasts a full day. Delivery was quick and well packed. Absolutely great. Camera photos are stunning in daylight.,Positive
+501,AeroBook Air,2025-11-22,4,Loving it! Excellent value for a laptop this good.,Positive
+502,NovaPhone X,2026-04-02,3,Average product. Battery life is average. Delivery took the usual time.,Neutral
+503,NovaPhone X,2026-09-05,4,Very happy with this purchase. Camera photos are stunning in daylight. Delivery took the usual time.,Positive
+504,NovaPhone X,2025-10-07,5,Delivery took the usual time. Great value for money. Very happy with this purchase.,Positive
+505,FitPulse Watch,2025-11-08,5,Battery runs a full week. Highly recommended. Fitness tracking is accurate and motivating.,Positive
+506,FitPulse Watch,2025-10-22,2,Very disappointed. Step and heart rate tracking are wildly inaccurate. Battery needs charging every night.,Negative
+507,FitPulse Watch,2025-09-22,5,Very happy with this purchase. Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist. Battery runs a full week.,Positive
+508,FitPulse Watch,2025-05-30,3,Design is plain but fine. It is okay overall.,Neutral
+509,AeroBook Air,2026-10-17,5,Performance is blazing fast for coding. The display is bright and sharp. Loving it! Excellent value for a laptop this good.,Positive
+510,NovaPhone X,2026-08-17,2,Total waste of money. Overpriced for what you get. Camera is blurry in low light. Battery drains way too fast.,Negative
+511,AeroBook Air,2025-06-16,3,Mixed feelings. The display is average.,Neutral
+512,NovaPhone X,2025-05-23,5,Absolutely great. The battery easily lasts a full day. Camera photos are stunning in daylight. Great value for money.,Positive
+513,FitPulse Watch,2025-08-03,3,Tracking is acceptable. It is okay overall. Battery runs a full week. Design is plain but fine.,Neutral
+514,BeatBuds Pro,2026-06-10,3,"Sound is okay, nothing special. Fairly priced. It is okay overall.",Neutral
+515,NovaPhone X,2025-07-09,5,The battery easily lasts a full day. Delivery was quick and well packed. Very happy with this purchase.,Positive
+516,AeroBook Air,2025-03-11,5,Battery easily gets me through a workday. Very happy with this purchase.,Positive
+517,NovaPhone X,2025-04-12,3,Camera is decent for the price. Does the job.,Neutral
+518,BeatBuds Pro,2025-11-18,3,"Fairly priced. Battery dies within two hours. Average product. Sound is okay, nothing special.",Neutral
+519,NovaPhone X,2025-11-16,5,Very happy with this purchase. Delivery was late and the box was damaged. Camera photos are stunning in daylight. Great value for money.,Positive
+520,FitPulse Watch,2026-05-19,4,Highly recommended. Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist.,Positive
+521,NovaPhone X,2026-09-02,5,Delivery was quick and well packed. Great value for money. The battery easily lasts a full day. Absolutely great.,Positive
+522,FitPulse Watch,2026-09-10,5,Very happy with this purchase. Fitness tracking is accurate and motivating. Amazing features at this price.,Positive
+523,FitPulse Watch,2025-03-11,3,Tracking is acceptable. Battery is okay. It is okay overall. Strap feels cheap and itchy.,Neutral
+524,FitPulse Watch,2026-06-17,2,Price is average. Total waste of money.,Negative
+525,FitPulse Watch,2026-07-08,1,Regret buying this. Strap feels cheap and itchy.,Negative
+526,NovaPhone X,2026-04-16,3,It is okay overall. Delivery took the usual time.,Neutral
+527,NovaPhone X,2026-07-07,5,The battery easily lasts a full day. Great value for money. Delivery was quick and well packed. Absolutely great.,Positive
+528,FitPulse Watch,2025-12-28,5,Absolutely great. Battery runs a full week.,Positive
+529,AeroBook Air,2025-01-28,5,Highly recommended. Performance is blazing fast for coding.,Positive
+530,AeroBook Air,2026-08-30,5,Battery easily gets me through a workday. The display is bright and sharp. Absolutely great.,Positive
+531,NovaPhone X,2025-02-08,3,Price is about what I expected. It is okay overall.,Neutral
+532,FitPulse Watch,2025-11-27,1,Very disappointed. Step and heart rate tracking are wildly inaccurate. Not worth the money.,Negative
+533,NovaPhone X,2025-11-03,3,Mixed feelings. Camera is decent for the price.,Neutral
+534,AeroBook Air,2025-02-18,3,Price is reasonable. It is okay overall.,Neutral
+535,AeroBook Air,2026-08-04,3,It is okay overall. The display is average. Battery life is decent.,Neutral
+536,FitPulse Watch,2026-02-16,4,Very happy with this purchase. Battery runs a full week. Looks sleek and premium on the wrist.,Positive
+537,AeroBook Air,2026-06-30,2,Would not recommend. The display has terrible washed out colors. Performance lags with multiple tabs open.,Negative
+538,FitPulse Watch,2026-10-12,3,Mixed feelings. Price is average. Battery is okay. Design is plain but fine.,Neutral
+539,BeatBuds Pro,2025-07-16,3,Fairly priced. Does the job. Comfort is acceptable.,Neutral
+540,NovaPhone X,2025-01-30,5,Delivery was quick and well packed. Camera photos are stunning in daylight. Absolutely great.,Positive
+541,AeroBook Air,2026-09-09,1,The display has terrible washed out colors. Battery barely lasts three hours. Very disappointed.,Negative
+542,AeroBook Air,2026-05-28,3,Battery life is decent. Price is reasonable. It is okay overall.,Neutral
+543,NovaPhone X,2025-05-28,1,Overpriced for what you get. Would not recommend. Camera is blurry in low light. Battery drains way too fast.,Negative
+544,NovaPhone X,2026-03-10,5,Camera is decent for the price. Very happy with this purchase. Delivery was quick and well packed.,Positive
+545,FitPulse Watch,2025-02-25,2,Step and heart rate tracking are wildly inaccurate. Not worth the money. Regret buying this.,Negative
+546,BeatBuds Pro,2025-01-09,5,Very comfortable even after hours. Very happy with this purchase. Totally worth the price.,Positive
+547,FitPulse Watch,2026-10-22,3,Battery is okay. Design is plain but fine. Does the job.,Neutral
+548,FitPulse Watch,2025-09-25,1,Regret buying this. Step and heart rate tracking are wildly inaccurate. Battery needs charging every night.,Negative
+549,NovaPhone X,2025-11-09,4,Camera is blurry in low light. The battery easily lasts a full day. Loving it! Great value for money.,Positive
+550,AeroBook Air,2026-02-25,2,The display has terrible washed out colors. Would not recommend.,Negative
+551,AeroBook Air,2026-07-26,4,Way too pricey. Very happy with this purchase. The display is bright and sharp. Performance is blazing fast for coding.,Positive
+552,BeatBuds Pro,2025-06-24,3,Fairly priced. Does the job. Battery is fine for daily use.,Neutral
+553,NovaPhone X,2026-03-18,5,Loving it! Great value for money. Delivery was quick and well packed. Camera photos are stunning in daylight.,Positive
+554,BeatBuds Pro,2025-09-12,1,Too expensive for the quality. Would not recommend. Battery dies within two hours.,Negative
+555,AeroBook Air,2026-09-04,1,Regret buying this. Battery barely lasts three hours. Performance lags with multiple tabs open. Way too pricey.,Negative
+556,AeroBook Air,2026-01-26,5,Excellent value for a laptop this good. Performance is blazing fast for coding. The display is bright and sharp. Highly recommended.,Positive
+557,AeroBook Air,2026-06-28,3,Battery life is decent. Performance is fine for basic tasks. Does the job. Price is reasonable.,Neutral
+558,FitPulse Watch,2026-01-05,5,Loving it! Looks sleek and premium on the wrist.,Positive
+559,FitPulse Watch,2026-10-14,5,Price is average. Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+560,FitPulse Watch,2026-04-24,4,Highly recommended. Battery needs charging every night.,Positive
+561,FitPulse Watch,2025-06-01,4,Very happy with this purchase. Fitness tracking is accurate and motivating. Battery runs a full week.,Positive
+562,NovaPhone X,2026-08-23,5,Highly recommended. Great value for money.,Positive
+563,BeatBuds Pro,2025-04-07,2,Battery dies within two hours. Regret buying this.,Negative
+564,AeroBook Air,2025-01-06,5,Loving it! The display is bright and sharp. Performance is blazing fast for coding. Battery easily gets me through a workday.,Positive
+565,AeroBook Air,2026-01-26,3,Price is reasonable. Performance is fine for basic tasks. The display is average. Does the job.,Neutral
+566,NovaPhone X,2025-10-19,5,Camera photos are stunning in daylight. Absolutely great.,Positive
+567,BeatBuds Pro,2025-07-24,5,Very comfortable even after hours. Very happy with this purchase. Totally worth the price.,Positive
+568,FitPulse Watch,2026-03-13,5,Not worth the money. Absolutely great. Fitness tracking is accurate and motivating.,Positive
+569,NovaPhone X,2026-03-24,5,Great value for money. Highly recommended. Delivery was quick and well packed.,Positive
+570,NovaPhone X,2025-02-18,3,Battery life is average. Price is about what I expected. Does the job.,Neutral
+571,NovaPhone X,2025-04-27,3,Camera is decent for the price. Average product. Battery life is average. Price is about what I expected.,Neutral
+572,FitPulse Watch,2026-04-11,5,Loving it! Price is average.,Positive
+573,FitPulse Watch,2025-01-19,2,Battery needs charging every night. Would not recommend. Design is plain but fine.,Negative
+574,NovaPhone X,2026-09-09,5,Absolutely great. Camera photos are stunning in daylight.,Positive
+575,FitPulse Watch,2025-05-29,5,Fitness tracking is accurate and motivating. Amazing features at this price. Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+576,BeatBuds Pro,2026-08-23,4,Absolutely great. Sound quality is crisp with deep bass. Battery dies within two hours. Totally worth the price.,Positive
+577,BeatBuds Pro,2026-02-14,4,Loving it! Fairly priced. Sound quality is crisp with deep bass. Battery lasts for days on one charge.,Positive
+578,FitPulse Watch,2026-10-24,2,Battery needs charging every night. Very disappointed. Not worth the money. Design is plain but fine.,Negative
+579,AeroBook Air,2026-08-25,5,Excellent value for a laptop this good. Very happy with this purchase. Performance is blazing fast for coding.,Positive
+580,AeroBook Air,2025-10-17,3,The display is average. Average product. Price is reasonable. Performance is fine for basic tasks.,Neutral
+581,NovaPhone X,2025-11-07,1,Camera is blurry in low light. Would not recommend.,Negative
+582,BeatBuds Pro,2025-06-28,5,Very happy with this purchase. Sound quality is crisp with deep bass.,Positive
+583,NovaPhone X,2025-10-01,3,Does the job. Battery life is average. Delivery was quick and well packed.,Neutral
+584,BeatBuds Pro,2026-06-04,3,"Sound is okay, nothing special. Fairly priced. Comfort is acceptable. Average product.",Neutral
+585,NovaPhone X,2025-04-12,5,Very happy with this purchase. Camera is blurry in low light.,Positive
+586,BeatBuds Pro,2025-10-21,1,Battery dies within two hours. Sound is tinny and distorted at high volume. Would not recommend.,Negative
+587,BeatBuds Pro,2026-02-24,5,Fairly priced. Battery lasts for days on one charge. Highly recommended.,Positive
+588,FitPulse Watch,2025-06-18,3,Battery is okay. Design is plain but fine. Tracking is acceptable. Does the job.,Neutral
+589,FitPulse Watch,2026-07-21,5,Loving it! Fitness tracking is accurate and motivating.,Positive
+590,AeroBook Air,2025-07-30,2,Performance lags with multiple tabs open. Battery barely lasts three hours. Total waste of money.,Negative
+591,FitPulse Watch,2026-06-08,1,Very disappointed. Step and heart rate tracking are wildly inaccurate. Battery needs charging every night. Not worth the money.,Negative
+592,AeroBook Air,2026-10-05,1,The display has terrible washed out colors. Battery barely lasts three hours. Performance lags with multiple tabs open. Total waste of money.,Negative
+593,AeroBook Air,2026-08-10,5,Loving it! The display is bright and sharp. Battery easily gets me through a workday. Performance is blazing fast for coding.,Positive
+594,BeatBuds Pro,2026-03-12,1,Sound is tinny and distorted at high volume. Would not recommend. Battery dies within two hours. Fairly priced.,Negative
+595,BeatBuds Pro,2026-10-14,5,Absolutely great. Battery lasts for days on one charge. Sound quality is crisp with deep bass.,Positive
+596,FitPulse Watch,2025-02-03,3,Amazing features at this price. Tracking is acceptable. Design is plain but fine. Does the job.,Neutral
+597,BeatBuds Pro,2025-11-09,3,Sound is tinny and distorted at high volume. Comfort is acceptable. Average product.,Neutral
+598,AeroBook Air,2026-05-16,4,Highly recommended. Excellent value for a laptop this good. Performance is blazing fast for coding.,Positive
+599,NovaPhone X,2026-09-13,5,Absolutely great. Delivery was quick and well packed. The battery easily lasts a full day.,Positive
+600,BeatBuds Pro,2026-07-08,1,Battery dies within two hours. Would not recommend. Too expensive for the quality. They hurt my ears after twenty minutes.,Negative
+601,NovaPhone X,2025-05-07,3,It is okay overall. Price is about what I expected. Delivery took the usual time.,Neutral
+602,NovaPhone X,2026-08-17,4,Price is about what I expected. Delivery was quick and well packed. Absolutely great. The battery easily lasts a full day.,Positive
+603,FitPulse Watch,2025-04-12,4,Absolutely great. Battery runs a full week. Looks sleek and premium on the wrist. Step and heart rate tracking are wildly inaccurate.,Positive
+604,BeatBuds Pro,2025-11-30,4,They hurt my ears after twenty minutes. Loving it!,Positive
+605,BeatBuds Pro,2026-01-20,5,Absolutely great. Very comfortable even after hours.,Positive
+606,NovaPhone X,2025-03-04,4,Absolutely great. Camera photos are stunning in daylight.,Positive
+607,AeroBook Air,2025-04-14,5,The display is bright and sharp. Performance is blazing fast for coding. Loving it!,Positive
+608,BeatBuds Pro,2026-03-10,2,Too expensive for the quality. Regret buying this. They hurt my ears after twenty minutes. Battery is fine for daily use.,Negative
+609,FitPulse Watch,2025-08-06,5,Highly recommended. Amazing features at this price. Strap feels cheap and itchy.,Positive
+610,AeroBook Air,2025-11-22,5,Excellent value for a laptop this good. Absolutely great. Performance is blazing fast for coding. The display is bright and sharp.,Positive
+611,AeroBook Air,2026-09-16,1,Way too pricey. Performance lags with multiple tabs open. The display has terrible washed out colors. Total waste of money.,Negative
+612,FitPulse Watch,2025-03-25,5,Absolutely great. Fitness tracking is accurate and motivating.,Positive
+613,NovaPhone X,2026-01-15,1,Delivery was late and the box was damaged. Overpriced for what you get. Total waste of money. Battery drains way too fast.,Negative
+614,BeatBuds Pro,2026-09-21,4,Very happy with this purchase. Sound quality is crisp with deep bass.,Positive
+615,AeroBook Air,2026-09-13,3,The display is average. Average product.,Neutral
+616,BeatBuds Pro,2025-05-11,5,Battery lasts for days on one charge. Sound quality is crisp with deep bass. Absolutely great. Totally worth the price.,Positive
+617,AeroBook Air,2026-06-30,3,Battery life is decent. Does the job.,Neutral
+618,AeroBook Air,2026-06-15,2,Very disappointed. The display has terrible washed out colors. Performance lags with multiple tabs open.,Negative
+619,FitPulse Watch,2026-08-09,5,Looks sleek and premium on the wrist. Amazing features at this price. Battery runs a full week. Loving it!,Positive
+620,NovaPhone X,2025-11-15,3,Delivery took the usual time. It is okay overall.,Neutral
+621,NovaPhone X,2025-12-09,2,Battery drains way too fast. Regret buying this.,Negative
+622,AeroBook Air,2026-03-26,5,The display is bright and sharp. Excellent value for a laptop this good. Loving it!,Positive
+623,NovaPhone X,2026-09-18,1,Delivery was late and the box was damaged. Overpriced for what you get. Very disappointed. Battery drains way too fast.,Negative
+624,FitPulse Watch,2026-04-21,5,Battery runs a full week. Looks sleek and premium on the wrist. Very happy with this purchase. Amazing features at this price.,Positive
+625,FitPulse Watch,2026-10-15,3,Battery is okay. Amazing features at this price. Tracking is acceptable. Average product.,Neutral
+626,AeroBook Air,2026-01-02,5,Highly recommended. Excellent value for a laptop this good. Performance lags with multiple tabs open.,Positive
+627,AeroBook Air,2025-02-25,2,Way too pricey. Performance lags with multiple tabs open. Total waste of money. The display has terrible washed out colors.,Negative
+628,FitPulse Watch,2026-04-24,5,Loving it! Fitness tracking is accurate and motivating.,Positive
+629,AeroBook Air,2026-04-23,3,Battery life is decent. The display is average. Excellent value for a laptop this good. Average product.,Neutral
+630,BeatBuds Pro,2025-05-26,5,Totally worth the price. Battery lasts for days on one charge. Very comfortable even after hours. Highly recommended.,Positive
+631,AeroBook Air,2025-01-23,4,Performance is blazing fast for coding. Highly recommended. Excellent value for a laptop this good. Battery easily gets me through a workday.,Positive
+632,BeatBuds Pro,2025-11-09,3,"Sound is okay, nothing special. Does the job.",Neutral
+633,FitPulse Watch,2026-01-23,4,Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist. Absolutely great.,Positive
+634,AeroBook Air,2026-10-07,4,Performance is blazing fast for coding. The display is bright and sharp. Highly recommended.,Positive
+635,AeroBook Air,2026-01-18,3,Average product. Battery barely lasts three hours. Price is reasonable. Performance is fine for basic tasks.,Neutral
+636,FitPulse Watch,2025-07-27,1,Not worth the money. Regret buying this. Step and heart rate tracking are wildly inaccurate.,Negative
+637,FitPulse Watch,2025-05-18,3,Average product. Price is average. Tracking is acceptable.,Neutral
+638,NovaPhone X,2025-10-07,5,Absolutely great. The battery easily lasts a full day. Great value for money. Delivery was quick and well packed.,Positive
+639,FitPulse Watch,2025-04-11,5,Fitness tracking is accurate and motivating. Loving it! Price is average.,Positive
+640,NovaPhone X,2025-10-09,5,Very happy with this purchase. Camera is blurry in low light.,Positive
+641,BeatBuds Pro,2026-02-20,1,Very disappointed. They hurt my ears after twenty minutes.,Negative
+642,NovaPhone X,2025-11-17,5,Highly recommended. Camera photos are stunning in daylight. Delivery was quick and well packed. The battery easily lasts a full day.,Positive
+643,BeatBuds Pro,2025-12-30,5,Sound quality is crisp with deep bass. Absolutely great. Battery lasts for days on one charge. Totally worth the price.,Positive
+644,AeroBook Air,2026-10-07,5,Excellent value for a laptop this good. Battery easily gets me through a workday. Very happy with this purchase.,Positive
+645,FitPulse Watch,2025-12-03,3,Price is average. It is okay overall.,Neutral
+646,FitPulse Watch,2025-07-23,1,Very disappointed. Battery needs charging every night. Price is average.,Negative
+647,NovaPhone X,2025-01-12,3,Battery life is average. Does the job. Price is about what I expected.,Neutral
+648,BeatBuds Pro,2025-07-30,4,Sound quality is crisp with deep bass. Too expensive for the quality. Loving it!,Positive
+649,AeroBook Air,2026-09-12,4,Performance is blazing fast for coding. Excellent value for a laptop this good. The display is bright and sharp. Highly recommended.,Positive
+650,BeatBuds Pro,2025-06-29,2,Very disappointed. Battery dies within two hours. Too expensive for the quality. They hurt my ears after twenty minutes.,Negative
+651,FitPulse Watch,2025-10-26,5,Tracking is acceptable. Looks sleek and premium on the wrist. Highly recommended. Amazing features at this price.,Positive
+652,NovaPhone X,2025-08-01,1,Very disappointed. Overpriced for what you get. Camera is blurry in low light. Delivery was quick and well packed.,Negative
+653,NovaPhone X,2025-02-08,4,Absolutely great. Delivery was quick and well packed.,Positive
+654,NovaPhone X,2025-06-24,5,Delivery took the usual time. Camera photos are stunning in daylight. Absolutely great. Great value for money.,Positive
+655,NovaPhone X,2025-01-12,1,Very disappointed. Overpriced for what you get.,Negative
+656,AeroBook Air,2026-10-19,5,Performance is blazing fast for coding. Loving it! The display is bright and sharp.,Positive
+657,NovaPhone X,2025-04-04,4,The battery easily lasts a full day. Delivery was late and the box was damaged. Loving it!,Positive
+658,NovaPhone X,2025-06-21,4,Great value for money. Highly recommended.,Positive
+659,BeatBuds Pro,2026-01-01,4,Sound quality is crisp with deep bass. Battery lasts for days on one charge. Highly recommended. Very comfortable even after hours.,Positive
+660,AeroBook Air,2026-01-13,5,Absolutely great. Battery easily gets me through a workday. Performance is blazing fast for coding.,Positive
+661,NovaPhone X,2026-07-04,4,Very happy with this purchase. Delivery was quick and well packed.,Positive
+662,BeatBuds Pro,2026-10-13,5,Very comfortable even after hours. Absolutely great.,Positive
+663,AeroBook Air,2026-09-24,3,The display is average. It is okay overall. Performance is fine for basic tasks. Price is reasonable.,Neutral
+664,NovaPhone X,2025-05-18,5,The battery easily lasts a full day. Delivery was late and the box was damaged. Great value for money. Loving it!,Positive
+665,AeroBook Air,2025-12-17,5,Excellent value for a laptop this good. Very happy with this purchase.,Positive
+666,BeatBuds Pro,2025-07-07,5,Highly recommended. Battery lasts for days on one charge.,Positive
+667,FitPulse Watch,2025-07-29,1,Not worth the money. Very disappointed.,Negative
+668,BeatBuds Pro,2025-11-07,5,Sound quality is crisp with deep bass. Absolutely great. Very comfortable even after hours. Battery lasts for days on one charge.,Positive
+669,AeroBook Air,2026-03-20,2,Very disappointed. Way too pricey. The display has terrible washed out colors. Battery barely lasts three hours.,Negative
+670,BeatBuds Pro,2025-06-29,3,"Battery is fine for daily use. Average product. Sound is okay, nothing special.",Neutral
+671,AeroBook Air,2025-07-20,5,The display is bright and sharp. Absolutely great. Excellent value for a laptop this good.,Positive
+672,BeatBuds Pro,2026-01-18,3,"Mixed feelings. Sound is okay, nothing special.",Neutral
+673,FitPulse Watch,2026-05-16,5,Loving it! Battery runs a full week. Not worth the money. Fitness tracking is accurate and motivating.,Positive
+674,AeroBook Air,2026-04-12,2,Way too pricey. Performance lags with multiple tabs open. The display has terrible washed out colors. Would not recommend.,Negative
+675,BeatBuds Pro,2026-03-14,5,Battery lasts for days on one charge. Very comfortable even after hours. Sound quality is crisp with deep bass. Loving it!,Positive
+676,AeroBook Air,2025-08-03,1,The display has terrible washed out colors. Way too pricey. Battery barely lasts three hours. Regret buying this.,Negative
+677,FitPulse Watch,2025-10-23,1,Regret buying this. Fitness tracking is accurate and motivating.,Negative
+678,FitPulse Watch,2025-07-10,5,Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating. Highly recommended.,Positive
+679,BeatBuds Pro,2026-10-02,5,Very happy with this purchase. Battery lasts for days on one charge.,Positive
+680,NovaPhone X,2025-01-31,3,Mixed feelings. The battery easily lasts a full day.,Neutral
+681,BeatBuds Pro,2026-01-20,5,Sound quality is crisp with deep bass. Fairly priced. Very comfortable even after hours. Very happy with this purchase.,Positive
+682,AeroBook Air,2026-02-13,3,Average product. Price is reasonable. Battery life is decent.,Neutral
+683,FitPulse Watch,2025-05-06,2,Strap feels cheap and itchy. Very disappointed. Battery needs charging every night.,Negative
+684,AeroBook Air,2025-07-12,3,Average product. Battery life is decent.,Neutral
+685,NovaPhone X,2025-08-28,3,Mixed feelings. Battery life is average. Price is about what I expected.,Neutral
+686,FitPulse Watch,2026-06-17,5,Fitness tracking is accurate and motivating. Absolutely great. Battery runs a full week. Looks sleek and premium on the wrist.,Positive
+687,NovaPhone X,2026-07-08,5,Overpriced for what you get. Absolutely great.,Positive
+688,BeatBuds Pro,2026-01-28,4,Sound quality is crisp with deep bass. Loving it!,Positive
+689,AeroBook Air,2025-12-07,4,Loving it! Excellent value for a laptop this good. Battery easily gets me through a workday.,Positive
+690,BeatBuds Pro,2025-10-25,3,"Sound is okay, nothing special. Comfort is acceptable. Average product. Battery is fine for daily use.",Neutral
+691,NovaPhone X,2026-08-28,5,Overpriced for what you get. Loving it! Camera photos are stunning in daylight.,Positive
+692,BeatBuds Pro,2026-07-06,3,Comfort is acceptable. Battery is fine for daily use. Does the job.,Neutral
+693,FitPulse Watch,2025-11-13,5,Step and heart rate tracking are wildly inaccurate. Absolutely great. Price is average.,Positive
+694,NovaPhone X,2025-02-23,5,Battery drains way too fast. Absolutely great. Great value for money. Delivery was quick and well packed.,Positive
+695,BeatBuds Pro,2025-10-17,3,"It is okay overall. Sound is okay, nothing special. Fairly priced. Battery is fine for daily use.",Neutral
+696,AeroBook Air,2026-04-14,1,Price is reasonable. Very disappointed.,Negative
+697,BeatBuds Pro,2026-08-13,2,Too expensive for the quality. Battery dies within two hours. Would not recommend.,Negative
+698,NovaPhone X,2025-12-31,1,Delivery was late and the box was damaged. Regret buying this.,Negative
+699,FitPulse Watch,2026-02-18,5,Battery runs a full week. Very happy with this purchase.,Positive
+700,BeatBuds Pro,2026-01-20,5,Totally worth the price. Absolutely great.,Positive
+701,NovaPhone X,2025-04-07,2,Camera is blurry in low light. Overpriced for what you get. Total waste of money. Delivery was quick and well packed.,Negative
+702,BeatBuds Pro,2026-07-04,5,Battery lasts for days on one charge. Loving it! Sound quality is crisp with deep bass. Totally worth the price.,Positive
+703,FitPulse Watch,2025-07-31,4,Battery runs a full week. Strap feels cheap and itchy. Highly recommended. Amazing features at this price.,Positive
+704,BeatBuds Pro,2025-01-01,5,Sound quality is crisp with deep bass. Loving it! Totally worth the price.,Positive
+705,BeatBuds Pro,2025-02-15,5,Very comfortable even after hours. Highly recommended. Battery lasts for days on one charge. Totally worth the price.,Positive
+706,BeatBuds Pro,2025-10-12,5,Very comfortable even after hours. Highly recommended.,Positive
+707,BeatBuds Pro,2025-09-18,1,They hurt my ears after twenty minutes. Sound is tinny and distorted at high volume. Total waste of money.,Negative
+708,FitPulse Watch,2026-10-24,3,It is okay overall. Tracking is acceptable.,Neutral
+709,BeatBuds Pro,2025-04-23,2,"Too expensive for the quality. Sound is okay, nothing special. Total waste of money. Battery dies within two hours.",Negative
+710,FitPulse Watch,2025-11-10,4,Battery runs a full week. Fitness tracking is accurate and motivating. Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+711,FitPulse Watch,2025-12-20,5,Amazing features at this price. Looks sleek and premium on the wrist. Very happy with this purchase.,Positive
+712,FitPulse Watch,2025-05-27,5,Looks sleek and premium on the wrist. Loving it!,Positive
+713,FitPulse Watch,2025-07-07,1,Total waste of money. Battery needs charging every night. Strap feels cheap and itchy.,Negative
+714,FitPulse Watch,2025-11-09,3,Tracking is acceptable. Design is plain but fine. Average product.,Neutral
+715,FitPulse Watch,2025-02-28,2,Battery needs charging every night. Very disappointed.,Negative
+716,NovaPhone X,2025-01-08,1,Battery drains way too fast. Camera is blurry in low light. Delivery was late and the box was damaged. Would not recommend.,Negative
+717,FitPulse Watch,2026-06-11,1,Not worth the money. Battery needs charging every night. Regret buying this. Strap feels cheap and itchy.,Negative
+718,AeroBook Air,2026-05-10,3,Price is reasonable. The display is average. Does the job.,Neutral
+719,AeroBook Air,2026-05-15,5,Excellent value for a laptop this good. Highly recommended.,Positive
+720,NovaPhone X,2025-03-28,5,Camera photos are stunning in daylight. Delivery was late and the box was damaged. Overpriced for what you get. Very happy with this purchase.,Positive
+721,BeatBuds Pro,2026-07-04,5,Very happy with this purchase. Totally worth the price. Sound quality is crisp with deep bass.,Positive
+722,AeroBook Air,2025-10-19,4,Performance is blazing fast for coding. Highly recommended. Excellent value for a laptop this good.,Positive
+723,NovaPhone X,2026-05-16,4,Highly recommended. Great value for money. The battery easily lasts a full day.,Positive
+724,FitPulse Watch,2025-12-17,2,Fitness tracking is accurate and motivating. Strap feels cheap and itchy. Not worth the money. Regret buying this.,Negative
+725,FitPulse Watch,2025-04-28,3,Design is plain but fine. Mixed feelings. Step and heart rate tracking are wildly inaccurate. Battery is okay.,Neutral
+726,AeroBook Air,2026-05-30,3,Price is reasonable. Does the job.,Neutral
+727,BeatBuds Pro,2026-01-25,4,Battery lasts for days on one charge. Sound quality is crisp with deep bass. Highly recommended. Very comfortable even after hours.,Positive
+728,FitPulse Watch,2025-12-26,1,Not worth the money. Step and heart rate tracking are wildly inaccurate. Regret buying this. Battery needs charging every night.,Negative
+729,FitPulse Watch,2026-04-29,4,Loving it! Tracking is acceptable.,Positive
+730,AeroBook Air,2025-11-08,3,Does the job. Price is reasonable.,Neutral
+731,NovaPhone X,2026-06-26,5,Very happy with this purchase. Camera photos are stunning in daylight.,Positive
+732,AeroBook Air,2025-07-15,4,The display is bright and sharp. Absolutely great. Battery life is decent.,Positive
+733,BeatBuds Pro,2025-06-07,2,Total waste of money. Sound is tinny and distorted at high volume.,Negative
+734,NovaPhone X,2026-05-10,5,Great value for money. Very happy with this purchase. Delivery was quick and well packed.,Positive
+735,FitPulse Watch,2026-06-30,2,Would not recommend. Tracking is acceptable. Not worth the money. Battery needs charging every night.,Negative
+736,NovaPhone X,2026-05-31,5,Camera is decent for the price. Absolutely great. Great value for money. Delivery was quick and well packed.,Positive
+737,AeroBook Air,2026-07-01,4,Battery easily gets me through a workday. Very happy with this purchase.,Positive
+738,BeatBuds Pro,2025-12-22,4,Sound quality is crisp with deep bass. Very happy with this purchase. Totally worth the price. Battery lasts for days on one charge.,Positive
+739,AeroBook Air,2025-06-30,5,Excellent value for a laptop this good. Performance is blazing fast for coding. Battery easily gets me through a workday. Absolutely great.,Positive
+740,AeroBook Air,2026-08-19,3,Battery life is decent. Performance is fine for basic tasks. Mixed feelings. The display is average.,Neutral
+741,FitPulse Watch,2026-04-16,5,Not worth the money. Very happy with this purchase.,Positive
+742,BeatBuds Pro,2025-01-22,3,Battery is fine for daily use. Average product.,Neutral
+743,AeroBook Air,2026-10-23,4,Highly recommended. Excellent value for a laptop this good.,Positive
+744,FitPulse Watch,2025-05-27,4,Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist. Battery runs a full week. Loving it!,Positive
+745,NovaPhone X,2026-05-07,1,Battery drains way too fast. Total waste of money.,Negative
+746,FitPulse Watch,2025-04-16,3,Tracking is acceptable. Does the job. Design is plain but fine.,Neutral
+747,AeroBook Air,2026-01-29,4,Highly recommended. Performance is blazing fast for coding. The display has terrible washed out colors.,Positive
+748,NovaPhone X,2026-09-23,5,Loving it! Camera photos are stunning in daylight.,Positive
+749,AeroBook Air,2026-03-12,5,Highly recommended. Performance is fine for basic tasks.,Positive
+750,BeatBuds Pro,2025-05-31,3,Battery is fine for daily use. Mixed feelings. Comfort is acceptable. Fairly priced.,Neutral
+751,AeroBook Air,2025-05-11,4,Performance is blazing fast for coding. Loving it! Excellent value for a laptop this good.,Positive
+752,BeatBuds Pro,2025-09-09,2,Regret buying this. They hurt my ears after twenty minutes. Battery dies within two hours.,Negative
+753,FitPulse Watch,2025-08-29,5,Looks sleek and premium on the wrist. Highly recommended. Amazing features at this price.,Positive
+754,AeroBook Air,2026-01-05,4,Battery easily gets me through a workday. Absolutely great.,Positive
+755,BeatBuds Pro,2025-05-22,4,Totally worth the price. Highly recommended.,Positive
+756,NovaPhone X,2026-01-10,3,Delivery took the usual time. Battery life is average. Camera is decent for the price. Average product.,Neutral
+757,BeatBuds Pro,2026-06-25,5,Absolutely great. Sound quality is crisp with deep bass.,Positive
+758,AeroBook Air,2026-04-11,5,The display is bright and sharp. Performance is blazing fast for coding. Very happy with this purchase. Battery easily gets me through a workday.,Positive
+759,AeroBook Air,2025-02-27,3,Performance lags with multiple tabs open. Average product. Price is reasonable. Battery life is decent.,Neutral
+760,BeatBuds Pro,2025-07-19,5,Very comfortable even after hours. Battery lasts for days on one charge. Absolutely great. Sound quality is crisp with deep bass.,Positive
+761,AeroBook Air,2025-03-08,5,Battery barely lasts three hours. Very happy with this purchase.,Positive
+762,BeatBuds Pro,2025-02-16,1,Battery dies within two hours. They hurt my ears after twenty minutes. Would not recommend.,Negative
+763,NovaPhone X,2025-05-13,5,Very happy with this purchase. Camera photos are stunning in daylight. The battery easily lasts a full day.,Positive
+764,NovaPhone X,2026-04-20,4,Great value for money. Delivery was quick and well packed. The battery easily lasts a full day. Loving it!,Positive
+765,NovaPhone X,2026-05-29,3,Camera is decent for the price. Does the job.,Neutral
+766,AeroBook Air,2026-02-01,4,Very happy with this purchase. Battery easily gets me through a workday.,Positive
+767,BeatBuds Pro,2025-06-23,5,Too expensive for the quality. Battery lasts for days on one charge. Sound quality is crisp with deep bass. Loving it!,Positive
+768,AeroBook Air,2026-10-28,5,Loving it! The display is bright and sharp. Battery life is decent.,Positive
+769,BeatBuds Pro,2025-11-18,3,"Mixed feelings. Sound is okay, nothing special. Battery is fine for daily use. Fairly priced.",Neutral
+770,AeroBook Air,2025-01-09,5,Excellent value for a laptop this good. Loving it! The display is bright and sharp.,Positive
+771,BeatBuds Pro,2026-04-25,3,"Sound is okay, nothing special. Average product. Fairly priced.",Neutral
+772,FitPulse Watch,2025-03-08,5,Battery runs a full week. Absolutely great.,Positive
+773,AeroBook Air,2025-02-02,5,The display is bright and sharp. Loving it! Performance is blazing fast for coding. Excellent value for a laptop this good.,Positive
+774,FitPulse Watch,2026-10-13,5,Highly recommended. Amazing features at this price. Fitness tracking is accurate and motivating.,Positive
+775,BeatBuds Pro,2025-08-08,5,Absolutely great. Comfort is acceptable.,Positive
+776,AeroBook Air,2025-12-24,4,Absolutely great. Performance is blazing fast for coding.,Positive
+777,FitPulse Watch,2025-11-21,5,Amazing features at this price. Looks sleek and premium on the wrist. Very happy with this purchase. Fitness tracking is accurate and motivating.,Positive
+778,NovaPhone X,2026-10-12,5,Camera is decent for the price. Very happy with this purchase. Delivery was quick and well packed.,Positive
+779,FitPulse Watch,2026-08-14,2,Not worth the money. Would not recommend. Strap feels cheap and itchy. Battery needs charging every night.,Negative
+780,NovaPhone X,2026-02-28,5,Very happy with this purchase. The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+781,FitPulse Watch,2026-03-24,5,Loving it! Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist. Amazing features at this price.,Positive
+782,AeroBook Air,2026-10-01,1,Very disappointed. Performance is blazing fast for coding.,Negative
+783,NovaPhone X,2026-04-21,1,Overpriced for what you get. Battery drains way too fast. Camera is blurry in low light. Regret buying this.,Negative
+784,FitPulse Watch,2025-02-03,3,Tracking is acceptable. Does the job. Price is average. Battery is okay.,Neutral
+785,NovaPhone X,2026-10-22,4,Camera photos are stunning in daylight. Great value for money. Highly recommended.,Positive
+786,FitPulse Watch,2026-10-09,3,Price is average. Fitness tracking is accurate and motivating. Battery is okay. Does the job.,Neutral
+787,FitPulse Watch,2025-01-26,3,Battery is okay. Not worth the money. Mixed feelings. Design is plain but fine.,Neutral
+788,BeatBuds Pro,2025-05-28,3,"Sound is okay, nothing special. Does the job. Comfort is acceptable. Fairly priced.",Neutral
+789,NovaPhone X,2026-05-18,1,Delivery was late and the box was damaged. Very disappointed. Battery drains way too fast. Camera photos are stunning in daylight.,Negative
+790,NovaPhone X,2025-01-11,4,Delivery was quick and well packed. Absolutely great. The battery easily lasts a full day.,Positive
+791,BeatBuds Pro,2026-09-13,1,Total waste of money. Battery dies within two hours. Too expensive for the quality. Sound is tinny and distorted at high volume.,Negative
+792,NovaPhone X,2025-04-05,1,Very disappointed. The battery easily lasts a full day. Delivery was late and the box was damaged. Camera is blurry in low light.,Negative
+793,AeroBook Air,2026-08-21,1,Regret buying this. Excellent value for a laptop this good. The display has terrible washed out colors. Battery barely lasts three hours.,Negative
+794,AeroBook Air,2025-10-06,5,Absolutely great. Excellent value for a laptop this good.,Positive
+795,AeroBook Air,2025-10-28,1,Performance is blazing fast for coding. Way too pricey. The display has terrible washed out colors. Total waste of money.,Negative
+796,AeroBook Air,2025-03-16,5,The display is bright and sharp. Very happy with this purchase.,Positive
+797,BeatBuds Pro,2025-08-27,1,Too expensive for the quality. Battery is fine for daily use. Very disappointed.,Negative
+798,NovaPhone X,2025-11-22,5,The battery easily lasts a full day. Camera photos are stunning in daylight. Great value for money. Loving it!,Positive
+799,AeroBook Air,2026-04-09,4,Absolutely great. Way too pricey.,Positive
+800,BeatBuds Pro,2026-06-25,2,They hurt my ears after twenty minutes. Fairly priced. Total waste of money. Sound is tinny and distorted at high volume.,Negative
+801,NovaPhone X,2025-12-21,5,Absolutely great. Battery drains way too fast.,Positive
+802,FitPulse Watch,2026-01-18,5,Loving it! Looks sleek and premium on the wrist. Amazing features at this price.,Positive
+803,NovaPhone X,2025-04-01,4,Highly recommended. Battery drains way too fast.,Positive
+804,BeatBuds Pro,2025-09-28,1,Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes. Very disappointed.,Negative
+805,AeroBook Air,2026-08-22,1,Battery barely lasts three hours. Way too pricey. Would not recommend.,Negative
+806,FitPulse Watch,2025-03-26,1,Battery needs charging every night. Strap feels cheap and itchy. Regret buying this. Not worth the money.,Negative
+807,AeroBook Air,2025-08-10,1,The display has terrible washed out colors. Very disappointed.,Negative
+808,FitPulse Watch,2026-04-10,3,It is okay overall. Price is average.,Neutral
+809,BeatBuds Pro,2026-06-10,3,Does the job. Battery is fine for daily use.,Neutral
+810,BeatBuds Pro,2025-04-15,2,Total waste of money. Sound is tinny and distorted at high volume.,Negative
+811,BeatBuds Pro,2026-05-03,5,Sound is tinny and distorted at high volume. Highly recommended.,Positive
+812,FitPulse Watch,2026-03-18,5,Battery runs a full week. Very happy with this purchase.,Positive
+813,AeroBook Air,2026-02-17,5,Performance is blazing fast for coding. Loving it! Battery easily gets me through a workday.,Positive
+814,BeatBuds Pro,2025-09-30,2,Battery dies within two hours. They hurt my ears after twenty minutes. Very disappointed. Too expensive for the quality.,Negative
+815,BeatBuds Pro,2025-04-14,5,Highly recommended. Very comfortable even after hours.,Positive
+816,BeatBuds Pro,2026-05-31,1,They hurt my ears after twenty minutes. Would not recommend. Sound is tinny and distorted at high volume. Battery dies within two hours.,Negative
+817,FitPulse Watch,2025-09-28,1,Very disappointed. Battery needs charging every night. Step and heart rate tracking are wildly inaccurate. Amazing features at this price.,Negative
+818,NovaPhone X,2025-04-23,4,Absolutely great. Great value for money.,Positive
+819,NovaPhone X,2026-05-14,3,Does the job. Price is about what I expected. Battery life is average. Delivery took the usual time.,Neutral
+820,AeroBook Air,2026-06-16,4,Very happy with this purchase. Battery easily gets me through a workday.,Positive
+821,NovaPhone X,2025-04-02,5,Highly recommended. Camera photos are stunning in daylight. Price is about what I expected.,Positive
+822,BeatBuds Pro,2025-12-06,3,"Battery is fine for daily use. Sound is okay, nothing special. Average product.",Neutral
+823,FitPulse Watch,2026-08-04,1,Strap feels cheap and itchy. Very disappointed. Battery needs charging every night.,Negative
+824,AeroBook Air,2026-10-01,5,Excellent value for a laptop this good. Highly recommended.,Positive
+825,BeatBuds Pro,2025-11-10,4,Sound quality is crisp with deep bass. Loving it! Battery lasts for days on one charge.,Positive
+826,NovaPhone X,2025-07-21,4,Delivery was quick and well packed. Camera photos are stunning in daylight. Highly recommended. The battery easily lasts a full day.,Positive
+827,FitPulse Watch,2026-01-31,2,Strap feels cheap and itchy. Would not recommend.,Negative
+828,FitPulse Watch,2025-11-27,5,Looks sleek and premium on the wrist. Very happy with this purchase.,Positive
+829,BeatBuds Pro,2025-03-29,1,They hurt my ears after twenty minutes. Would not recommend.,Negative
+830,AeroBook Air,2026-01-02,2,Regret buying this. Way too pricey. Battery barely lasts three hours. Performance is fine for basic tasks.,Negative
+831,FitPulse Watch,2025-09-06,5,Price is average. Step and heart rate tracking are wildly inaccurate. Absolutely great.,Positive
+832,AeroBook Air,2025-04-20,5,Battery easily gets me through a workday. Performance is fine for basic tasks. The display is bright and sharp. Highly recommended.,Positive
+833,AeroBook Air,2026-06-13,1,Way too pricey. Total waste of money. Battery life is decent.,Negative
+834,BeatBuds Pro,2025-07-25,2,Sound is tinny and distorted at high volume. Battery dies within two hours. Would not recommend.,Negative
+835,NovaPhone X,2026-06-02,5,The battery easily lasts a full day. Loving it!,Positive
+836,FitPulse Watch,2025-09-24,4,Looks sleek and premium on the wrist. Absolutely great.,Positive
+837,FitPulse Watch,2025-04-13,3,It is okay overall. Tracking is acceptable. Price is average. Battery is okay.,Neutral
+838,FitPulse Watch,2025-05-04,5,Amazing features at this price. Fitness tracking is accurate and motivating. Loving it!,Positive
+839,FitPulse Watch,2025-06-12,5,Absolutely great. Looks sleek and premium on the wrist. Battery needs charging every night.,Positive
+840,AeroBook Air,2025-11-07,2,Battery barely lasts three hours. Very disappointed. The display is bright and sharp. Way too pricey.,Negative
+841,FitPulse Watch,2025-12-23,5,Looks sleek and premium on the wrist. Amazing features at this price. Highly recommended. Fitness tracking is accurate and motivating.,Positive
+842,FitPulse Watch,2025-11-28,5,Highly recommended. Fitness tracking is accurate and motivating.,Positive
+843,BeatBuds Pro,2026-03-29,3,"Battery is fine for daily use. Comfort is acceptable. Average product. Sound is okay, nothing special.",Neutral
+844,AeroBook Air,2026-08-11,2,Total waste of money. The display has terrible washed out colors.,Negative
+845,BeatBuds Pro,2025-01-25,4,Very comfortable even after hours. Very happy with this purchase. Totally worth the price.,Positive
+846,NovaPhone X,2026-10-20,5,The battery easily lasts a full day. Very happy with this purchase.,Positive
+847,FitPulse Watch,2026-03-14,4,Amazing features at this price. Very happy with this purchase.,Positive
+848,FitPulse Watch,2026-01-02,3,It is okay overall. Price is average. Tracking is acceptable. Battery runs a full week.,Neutral
+849,NovaPhone X,2026-05-28,3,Price is about what I expected. It is okay overall.,Neutral
+850,AeroBook Air,2025-02-03,5,Absolutely great. Performance is blazing fast for coding.,Positive
+851,AeroBook Air,2025-08-30,5,Loving it! Battery life is decent.,Positive
+852,FitPulse Watch,2025-04-17,5,Fitness tracking is accurate and motivating. Battery runs a full week. Absolutely great. Price is average.,Positive
+853,NovaPhone X,2025-01-27,4,Great value for money. Absolutely great.,Positive
+854,BeatBuds Pro,2025-04-29,1,Regret buying this. They hurt my ears after twenty minutes. Sound is tinny and distorted at high volume.,Negative
+855,FitPulse Watch,2025-09-13,4,Fitness tracking is accurate and motivating. Very happy with this purchase. Battery runs a full week. Looks sleek and premium on the wrist.,Positive
+856,NovaPhone X,2025-09-08,5,Highly recommended. Delivery was quick and well packed.,Positive
+857,AeroBook Air,2026-01-01,5,Battery life is decent. Excellent value for a laptop this good. Loving it!,Positive
+858,BeatBuds Pro,2026-05-31,5,Very happy with this purchase. Totally worth the price. Very comfortable even after hours.,Positive
+859,NovaPhone X,2025-08-04,5,Camera is decent for the price. Delivery was quick and well packed. Loving it!,Positive
+860,NovaPhone X,2026-05-26,4,Highly recommended. The battery easily lasts a full day.,Positive
+861,NovaPhone X,2025-07-30,4,Loving it! Camera photos are stunning in daylight. Delivery was quick and well packed. The battery easily lasts a full day.,Positive
+862,FitPulse Watch,2025-08-10,5,Very happy with this purchase. Battery needs charging every night. Looks sleek and premium on the wrist.,Positive
+863,NovaPhone X,2026-08-05,5,Loving it! Delivery was quick and well packed. The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+864,AeroBook Air,2026-07-10,4,Highly recommended. Excellent value for a laptop this good. Battery easily gets me through a workday.,Positive
+865,AeroBook Air,2026-08-06,4,Performance is blazing fast for coding. Very happy with this purchase. Battery easily gets me through a workday.,Positive
+866,AeroBook Air,2026-05-07,3,Average product. Excellent value for a laptop this good.,Neutral
+867,BeatBuds Pro,2025-06-28,4,Very comfortable even after hours. Loving it! Sound quality is crisp with deep bass. Battery lasts for days on one charge.,Positive
+868,BeatBuds Pro,2025-09-23,3,"Sound is okay, nothing special. Comfort is acceptable. Fairly priced. It is okay overall.",Neutral
+869,AeroBook Air,2025-11-30,4,Performance is blazing fast for coding. Battery barely lasts three hours. Highly recommended.,Positive
+870,AeroBook Air,2026-09-29,3,Mixed feelings. Way too pricey. Performance is fine for basic tasks. The display is average.,Neutral
+871,NovaPhone X,2025-08-05,4,Great value for money. Highly recommended.,Positive
+872,AeroBook Air,2025-05-05,2,Very disappointed. The display is bright and sharp. Performance is fine for basic tasks. Battery barely lasts three hours.,Negative
+873,NovaPhone X,2025-04-29,1,Camera is blurry in low light. Would not recommend. Overpriced for what you get. Delivery was late and the box was damaged.,Negative
+874,BeatBuds Pro,2026-04-05,5,Very happy with this purchase. Very comfortable even after hours. Sound is tinny and distorted at high volume.,Positive
+875,FitPulse Watch,2025-10-21,5,Fitness tracking is accurate and motivating. Absolutely great.,Positive
+876,AeroBook Air,2026-10-10,5,Excellent value for a laptop this good. Absolutely great.,Positive
+877,BeatBuds Pro,2025-05-10,3,"It is okay overall. Sound is okay, nothing special. Fairly priced.",Neutral
+878,NovaPhone X,2025-05-11,3,It is okay overall. Camera is decent for the price.,Neutral
+879,FitPulse Watch,2026-09-24,2,Very disappointed. Strap feels cheap and itchy.,Negative
+880,NovaPhone X,2026-03-23,3,Mixed feelings. Battery life is average.,Neutral
+881,AeroBook Air,2026-06-05,1,Very disappointed. Battery barely lasts three hours. The display is bright and sharp. Performance lags with multiple tabs open.,Negative
+882,AeroBook Air,2026-06-22,3,The display is average. Mixed feelings.,Neutral
+883,FitPulse Watch,2025-10-12,5,Design is plain but fine. Highly recommended. Battery runs a full week.,Positive
+884,AeroBook Air,2025-04-19,5,Performance is blazing fast for coding. The display is bright and sharp. Very happy with this purchase.,Positive
+885,BeatBuds Pro,2025-02-10,2,Sound is tinny and distorted at high volume. Would not recommend.,Negative
+886,BeatBuds Pro,2026-06-18,5,Highly recommended. Very comfortable even after hours.,Positive
+887,BeatBuds Pro,2025-04-30,3,"Comfort is acceptable. It is okay overall. Sound is okay, nothing special.",Neutral
+888,AeroBook Air,2025-04-13,3,Performance is fine for basic tasks. The display has terrible washed out colors. Battery life is decent. Mixed feelings.,Neutral
+889,AeroBook Air,2025-07-11,4,Highly recommended. Battery easily gets me through a workday. Excellent value for a laptop this good. Performance lags with multiple tabs open.,Positive
+890,FitPulse Watch,2025-08-02,5,Highly recommended. Battery runs a full week.,Positive
+891,BeatBuds Pro,2026-05-12,5,Totally worth the price. Highly recommended. Battery lasts for days on one charge. Very comfortable even after hours.,Positive
+892,FitPulse Watch,2025-09-11,1,Regret buying this. Not worth the money. Strap feels cheap and itchy.,Negative
+893,FitPulse Watch,2026-02-26,5,Amazing features at this price. Looks sleek and premium on the wrist. Loving it!,Positive
+894,BeatBuds Pro,2026-03-29,5,Loving it! Battery lasts for days on one charge. Totally worth the price.,Positive
+895,FitPulse Watch,2025-11-12,5,Absolutely great. Looks sleek and premium on the wrist.,Positive
+896,FitPulse Watch,2025-12-08,5,Fitness tracking is accurate and motivating. Battery runs a full week. Looks sleek and premium on the wrist. Loving it!,Positive
+897,AeroBook Air,2026-01-18,1,Performance lags with multiple tabs open. Would not recommend. Battery easily gets me through a workday. Way too pricey.,Negative
+898,AeroBook Air,2025-01-25,5,The display is bright and sharp. Performance is blazing fast for coding. Loving it! Battery easily gets me through a workday.,Positive
+899,BeatBuds Pro,2026-03-02,2,Battery dies within two hours. Too expensive for the quality. Very disappointed. Sound is tinny and distorted at high volume.,Negative
+900,NovaPhone X,2026-04-15,5,Camera photos are stunning in daylight. Highly recommended. The battery easily lasts a full day. Delivery was quick and well packed.,Positive
+901,BeatBuds Pro,2026-02-08,5,Battery lasts for days on one charge. Absolutely great. Very comfortable even after hours. Too expensive for the quality.,Positive
+902,AeroBook Air,2026-10-08,1,Way too pricey. Performance lags with multiple tabs open. The display has terrible washed out colors. Very disappointed.,Negative
+903,NovaPhone X,2026-09-24,4,Camera photos are stunning in daylight. Absolutely great.,Positive
+904,FitPulse Watch,2025-08-03,1,Not worth the money. Battery needs charging every night. Step and heart rate tracking are wildly inaccurate. Total waste of money.,Negative
+905,FitPulse Watch,2025-03-21,1,Step and heart rate tracking are wildly inaccurate. Regret buying this. Not worth the money.,Negative
+906,FitPulse Watch,2026-05-23,4,Step and heart rate tracking are wildly inaccurate. Loving it!,Positive
+907,BeatBuds Pro,2026-08-01,1,Regret buying this. Totally worth the price. Battery dies within two hours. Sound is tinny and distorted at high volume.,Negative
+908,BeatBuds Pro,2026-03-03,4,Very comfortable even after hours. Totally worth the price. Very happy with this purchase. Battery lasts for days on one charge.,Positive
+909,BeatBuds Pro,2026-07-05,5,Sound quality is crisp with deep bass. Very happy with this purchase.,Positive
+910,FitPulse Watch,2025-01-15,5,Price is average. Highly recommended.,Positive
+911,BeatBuds Pro,2025-06-06,4,Very comfortable even after hours. Absolutely great. Battery lasts for days on one charge.,Positive
+912,NovaPhone X,2026-09-12,2,Very disappointed. Delivery was late and the box was damaged. Camera is decent for the price.,Negative
+913,AeroBook Air,2025-11-28,3,Battery life is decent. Performance is fine for basic tasks. It is okay overall. Price is reasonable.,Neutral
+914,NovaPhone X,2026-05-28,3,Average product. Camera is decent for the price.,Neutral
+915,NovaPhone X,2025-06-20,5,Camera photos are stunning in daylight. Absolutely great. Delivery was quick and well packed.,Positive
+916,AeroBook Air,2026-01-10,1,Total waste of money. The display has terrible washed out colors. Way too pricey.,Negative
+917,FitPulse Watch,2026-06-23,1,Not worth the money. Battery is okay. Would not recommend.,Negative
+918,BeatBuds Pro,2025-10-09,4,Sound quality is crisp with deep bass. Very comfortable even after hours. Very happy with this purchase.,Positive
+919,FitPulse Watch,2026-10-26,5,Fitness tracking is accurate and motivating. Loving it! Looks sleek and premium on the wrist. Battery runs a full week.,Positive
+920,NovaPhone X,2025-05-03,4,Camera photos are stunning in daylight. Highly recommended.,Positive
+921,NovaPhone X,2026-08-24,5,Very happy with this purchase. The battery easily lasts a full day. Delivery was quick and well packed. Camera is decent for the price.,Positive
+922,AeroBook Air,2026-02-24,2,The display has terrible washed out colors. Performance lags with multiple tabs open. Price is reasonable. Very disappointed.,Negative
+923,BeatBuds Pro,2026-08-05,1,They hurt my ears after twenty minutes. Total waste of money.,Negative
+924,NovaPhone X,2025-08-11,1,The battery easily lasts a full day. Very disappointed. Delivery took the usual time.,Negative
+925,AeroBook Air,2025-07-12,5,Performance is blazing fast for coding. The display is bright and sharp. Highly recommended. Excellent value for a laptop this good.,Positive
+926,AeroBook Air,2025-12-30,3,Mixed feelings. Battery life is decent.,Neutral
+927,AeroBook Air,2025-10-23,5,Loving it! Performance is fine for basic tasks. Battery easily gets me through a workday. Excellent value for a laptop this good.,Positive
+928,BeatBuds Pro,2025-11-27,5,Sound quality is crisp with deep bass. Very happy with this purchase. Totally worth the price. Very comfortable even after hours.,Positive
+929,AeroBook Air,2025-11-10,1,Performance lags with multiple tabs open. Total waste of money. Way too pricey. The display has terrible washed out colors.,Negative
+930,BeatBuds Pro,2026-03-22,5,Absolutely great. Sound quality is crisp with deep bass.,Positive
+931,FitPulse Watch,2025-11-04,5,Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+932,NovaPhone X,2026-08-31,3,Average product. Battery life is average.,Neutral
+933,NovaPhone X,2025-12-08,4,Great value for money. Highly recommended.,Positive
+934,NovaPhone X,2025-11-05,3,Camera is decent for the price. Average product. Delivery took the usual time.,Neutral
+935,AeroBook Air,2026-01-19,5,The display is bright and sharp. Absolutely great.,Positive
+936,NovaPhone X,2025-09-06,5,Absolutely great. The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+937,NovaPhone X,2026-07-01,5,Very happy with this purchase. Camera photos are stunning in daylight. Delivery was quick and well packed.,Positive
+938,NovaPhone X,2025-07-12,4,The battery easily lasts a full day. Delivery was quick and well packed. Highly recommended. Great value for money.,Positive
+939,NovaPhone X,2026-05-08,5,Absolutely great. Camera photos are stunning in daylight. The battery easily lasts a full day.,Positive
+940,NovaPhone X,2025-04-14,5,The battery easily lasts a full day. Absolutely great. Camera photos are stunning in daylight.,Positive
+941,FitPulse Watch,2025-01-12,3,Mixed feelings. Tracking is acceptable.,Neutral
+942,FitPulse Watch,2025-04-25,1,Total waste of money. Battery needs charging every night. Not worth the money. Step and heart rate tracking are wildly inaccurate.,Negative
+943,BeatBuds Pro,2025-02-10,3,"Comfort is acceptable. Does the job. Fairly priced. Sound is okay, nothing special.",Neutral
+944,NovaPhone X,2025-07-03,3,Battery life is average. Mixed feelings. Price is about what I expected.,Neutral
+945,AeroBook Air,2026-01-01,5,Excellent value for a laptop this good. Very happy with this purchase.,Positive
+946,NovaPhone X,2025-12-20,1,Very disappointed. Camera is blurry in low light. The battery easily lasts a full day.,Negative
+947,FitPulse Watch,2026-10-16,2,Not worth the money. Very disappointed.,Negative
+948,NovaPhone X,2025-09-25,4,Camera is decent for the price. Great value for money. The battery easily lasts a full day. Absolutely great.,Positive
+949,AeroBook Air,2025-02-16,2,The display has terrible washed out colors. Total waste of money. Performance lags with multiple tabs open. Battery barely lasts three hours.,Negative
+950,FitPulse Watch,2025-11-22,3,Average product. Battery is okay. Design is plain but fine. Tracking is acceptable.,Neutral
+951,NovaPhone X,2026-10-13,5,Highly recommended. Overpriced for what you get.,Positive
+952,AeroBook Air,2025-08-04,1,The display has terrible washed out colors. Performance lags with multiple tabs open. Total waste of money.,Negative
+953,BeatBuds Pro,2026-06-27,2,Sound is tinny and distorted at high volume. Very disappointed. Too expensive for the quality.,Negative
+954,AeroBook Air,2026-03-02,5,Absolutely great. Price is reasonable. Battery easily gets me through a workday.,Positive
+955,NovaPhone X,2025-08-05,1,Delivery was late and the box was damaged. Battery life is average. Regret buying this.,Negative
+956,NovaPhone X,2026-09-06,1,Regret buying this. Camera is blurry in low light.,Negative
+957,AeroBook Air,2025-10-21,5,Battery easily gets me through a workday. Performance is blazing fast for coding. Very happy with this purchase.,Positive
+958,FitPulse Watch,2025-04-11,5,Very happy with this purchase. Not worth the money.,Positive
+959,FitPulse Watch,2026-02-23,2,Not worth the money. Step and heart rate tracking are wildly inaccurate. Would not recommend.,Negative
+960,NovaPhone X,2026-09-08,4,Absolutely great. Camera photos are stunning in daylight.,Positive
+961,FitPulse Watch,2025-07-24,1,Step and heart rate tracking are wildly inaccurate. Regret buying this.,Negative
+962,AeroBook Air,2026-09-10,4,Highly recommended. Performance is blazing fast for coding.,Positive
+963,FitPulse Watch,2026-04-19,3,It is okay overall. Price is average.,Neutral
+964,NovaPhone X,2026-07-05,5,Delivery was quick and well packed. Absolutely great.,Positive
+965,NovaPhone X,2026-10-07,2,Overpriced for what you get. Camera is blurry in low light. Battery drains way too fast. Very disappointed.,Negative
+966,FitPulse Watch,2026-01-11,5,Battery runs a full week. Highly recommended.,Positive
+967,FitPulse Watch,2025-03-17,2,Step and heart rate tracking are wildly inaccurate. Regret buying this.,Negative
+968,FitPulse Watch,2026-09-01,3,Mixed feelings. Price is average. Tracking is acceptable.,Neutral
+969,NovaPhone X,2025-10-26,1,Very disappointed. Overpriced for what you get.,Negative
+970,AeroBook Air,2025-05-12,3,Average product. Battery life is decent.,Neutral
+971,BeatBuds Pro,2026-06-05,1,Very comfortable even after hours. Too expensive for the quality. Would not recommend.,Negative
+972,FitPulse Watch,2026-01-23,5,Highly recommended. Looks sleek and premium on the wrist.,Positive
+973,FitPulse Watch,2025-05-03,2,Battery needs charging every night. Step and heart rate tracking are wildly inaccurate. Regret buying this. Amazing features at this price.,Negative
+974,BeatBuds Pro,2025-12-04,5,Very comfortable even after hours. Sound quality is crisp with deep bass. Highly recommended.,Positive
+975,NovaPhone X,2026-09-16,4,Delivery was quick and well packed. Camera is decent for the price. Highly recommended. The battery easily lasts a full day.,Positive
+976,AeroBook Air,2025-03-04,1,The display has terrible washed out colors. Very disappointed.,Negative
+977,BeatBuds Pro,2026-07-10,4,Battery lasts for days on one charge. Totally worth the price. Loving it! Sound quality is crisp with deep bass.,Positive
+978,BeatBuds Pro,2026-09-22,2,Sound is tinny and distorted at high volume. Regret buying this. They hurt my ears after twenty minutes.,Negative
+979,FitPulse Watch,2025-09-28,3,Mixed feelings. Design is plain but fine. Price is average.,Neutral
+980,BeatBuds Pro,2025-07-03,5,Loving it! Very comfortable even after hours. Battery lasts for days on one charge. Totally worth the price.,Positive
+981,NovaPhone X,2025-11-24,1,Battery drains way too fast. Camera photos are stunning in daylight. Total waste of money. Overpriced for what you get.,Negative
+982,FitPulse Watch,2025-06-10,5,Fitness tracking is accurate and motivating. Strap feels cheap and itchy. Highly recommended.,Positive
+983,AeroBook Air,2025-12-08,3,Mixed feelings. Battery life is decent. Price is reasonable.,Neutral
+984,AeroBook Air,2025-12-29,3,The display is average. Price is reasonable. Average product.,Neutral
+985,BeatBuds Pro,2026-03-14,3,"Does the job. Comfort is acceptable. Sound is okay, nothing special.",Neutral
+986,FitPulse Watch,2026-05-14,5,Battery is okay. Fitness tracking is accurate and motivating. Very happy with this purchase. Amazing features at this price.,Positive
+987,BeatBuds Pro,2025-03-17,4,Very comfortable even after hours. Totally worth the price. Loving it! Sound quality is crisp with deep bass.,Positive
+988,AeroBook Air,2025-10-26,3,Mixed feelings. Price is reasonable. Battery life is decent. Performance is fine for basic tasks.,Neutral
+989,NovaPhone X,2025-07-08,5,Very happy with this purchase. Great value for money.,Positive
+990,AeroBook Air,2026-10-20,4,The display is bright and sharp. Highly recommended. Battery easily gets me through a workday.,Positive
+991,FitPulse Watch,2025-12-01,4,Looks sleek and premium on the wrist. Battery runs a full week. Loving it!,Positive
+992,FitPulse Watch,2026-08-11,5,Battery runs a full week. Looks sleek and premium on the wrist. Loving it!,Positive
+993,FitPulse Watch,2025-06-05,2,Regret buying this. Battery needs charging every night.,Negative
+994,AeroBook Air,2026-03-14,4,Battery easily gets me through a workday. The display is bright and sharp. Loving it! Excellent value for a laptop this good.,Positive
+995,BeatBuds Pro,2026-08-14,5,Very comfortable even after hours. Absolutely great.,Positive
+996,BeatBuds Pro,2025-12-23,4,Battery lasts for days on one charge. Very happy with this purchase.,Positive
+997,NovaPhone X,2025-05-21,5,Camera photos are stunning in daylight. Overpriced for what you get. Highly recommended.,Positive
+998,FitPulse Watch,2026-08-28,4,Fitness tracking is accurate and motivating. Highly recommended. Battery runs a full week.,Positive
+999,NovaPhone X,2026-09-12,5,The battery easily lasts a full day. Highly recommended.,Positive
+1000,AeroBook Air,2025-04-25,2,Would not recommend. Performance lags with multiple tabs open. Way too pricey.,Negative
+1001,FitPulse Watch,2025-08-23,5,Fitness tracking is accurate and motivating. Amazing features at this price. Loving it!,Positive
+1002,NovaPhone X,2026-08-02,1,Delivery was late and the box was damaged. Battery drains way too fast. Total waste of money.,Negative
+1003,NovaPhone X,2025-10-28,5,Camera photos are stunning in daylight. Absolutely great.,Positive
+1004,AeroBook Air,2025-07-05,2,Price is reasonable. Would not recommend.,Negative
+1005,AeroBook Air,2026-01-18,3,It is okay overall. The display is average.,Neutral
+1006,AeroBook Air,2026-02-22,1,Performance lags with multiple tabs open. Total waste of money.,Negative
+1007,NovaPhone X,2026-07-04,1,Battery drains way too fast. Camera is blurry in low light. Overpriced for what you get. Very disappointed.,Negative
+1008,FitPulse Watch,2026-08-08,5,Battery runs a full week. Absolutely great. Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating.,Positive
+1009,BeatBuds Pro,2025-11-05,5,Battery lasts for days on one charge. Sound quality is crisp with deep bass. Very comfortable even after hours. Loving it!,Positive
+1010,AeroBook Air,2026-10-10,1,Battery barely lasts three hours. Total waste of money. Performance lags with multiple tabs open.,Negative
+1011,NovaPhone X,2025-11-27,1,Battery drains way too fast. Would not recommend.,Negative
+1012,NovaPhone X,2025-05-01,1,Regret buying this. Overpriced for what you get. Battery drains way too fast.,Negative
+1013,AeroBook Air,2026-06-16,1,Battery barely lasts three hours. Total waste of money. The display has terrible washed out colors. Performance lags with multiple tabs open.,Negative
+1014,AeroBook Air,2025-10-30,4,Battery easily gets me through a workday. Loving it! Excellent value for a laptop this good.,Positive
+1015,BeatBuds Pro,2025-05-26,3,Battery is fine for daily use. Fairly priced. It is okay overall.,Neutral
+1016,BeatBuds Pro,2026-07-07,1,They hurt my ears after twenty minutes. Would not recommend.,Negative
+1017,BeatBuds Pro,2026-03-11,2,Sound is tinny and distorted at high volume. Very disappointed. Too expensive for the quality. Battery dies within two hours.,Negative
+1018,BeatBuds Pro,2025-09-15,4,Battery lasts for days on one charge. Very comfortable even after hours. Absolutely great.,Positive
+1019,AeroBook Air,2026-02-05,5,Excellent value for a laptop this good. Highly recommended. The display is bright and sharp. Performance is blazing fast for coding.,Positive
+1020,BeatBuds Pro,2025-05-26,4,Sound is tinny and distorted at high volume. Very happy with this purchase. Fairly priced.,Positive
+1021,AeroBook Air,2026-03-25,2,Total waste of money. Performance lags with multiple tabs open.,Negative
+1022,AeroBook Air,2025-06-22,3,Battery barely lasts three hours. Price is reasonable. Performance is fine for basic tasks. Mixed feelings.,Neutral
+1023,FitPulse Watch,2026-05-22,2,Very disappointed. Battery needs charging every night.,Negative
+1024,FitPulse Watch,2026-05-13,4,Looks sleek and premium on the wrist. Very happy with this purchase. Battery runs a full week. Fitness tracking is accurate and motivating.,Positive
+1025,BeatBuds Pro,2026-08-03,2,Total waste of money. Fairly priced.,Negative
+1026,FitPulse Watch,2026-03-27,2,Battery runs a full week. Very disappointed. Not worth the money. Strap feels cheap and itchy.,Negative
+1027,FitPulse Watch,2026-04-13,2,Strap feels cheap and itchy. Tracking is acceptable. Battery needs charging every night. Very disappointed.,Negative
+1028,AeroBook Air,2026-10-26,5,Battery easily gets me through a workday. Performance is blazing fast for coding. Very happy with this purchase. The display has terrible washed out colors.,Positive
+1029,AeroBook Air,2025-04-14,1,The display has terrible washed out colors. Very disappointed. Way too pricey.,Negative
+1030,NovaPhone X,2026-03-25,1,Would not recommend. Delivery was late and the box was damaged. Overpriced for what you get.,Negative
+1031,AeroBook Air,2026-10-20,2,Very disappointed. Battery life is decent.,Negative
+1032,AeroBook Air,2026-06-30,1,Way too pricey. Would not recommend. The display is average. Performance lags with multiple tabs open.,Negative
+1033,AeroBook Air,2025-09-09,5,Battery easily gets me through a workday. Very happy with this purchase. Performance is blazing fast for coding.,Positive
+1034,BeatBuds Pro,2025-08-10,2,Sound is tinny and distorted at high volume. Battery dies within two hours. Would not recommend.,Negative
+1035,BeatBuds Pro,2026-08-05,5,Absolutely great. Sound quality is crisp with deep bass.,Positive
+1036,BeatBuds Pro,2025-11-24,5,Very happy with this purchase. Battery lasts for days on one charge. Totally worth the price. Very comfortable even after hours.,Positive
+1037,AeroBook Air,2026-10-23,5,The display is average. Performance is blazing fast for coding. Excellent value for a laptop this good. Highly recommended.,Positive
+1038,BeatBuds Pro,2025-03-07,5,They hurt my ears after twenty minutes. Battery lasts for days on one charge. Sound quality is crisp with deep bass. Absolutely great.,Positive
+1039,AeroBook Air,2025-11-14,5,Excellent value for a laptop this good. Loving it! The display is bright and sharp. Battery easily gets me through a workday.,Positive
+1040,AeroBook Air,2025-06-15,5,Excellent value for a laptop this good. The display is bright and sharp. Performance lags with multiple tabs open. Loving it!,Positive
+1041,BeatBuds Pro,2025-05-22,5,Absolutely great. Sound quality is crisp with deep bass. Battery lasts for days on one charge. They hurt my ears after twenty minutes.,Positive
+1042,AeroBook Air,2025-08-21,5,Performance is blazing fast for coding. Battery easily gets me through a workday. Absolutely great.,Positive
+1043,AeroBook Air,2025-01-02,3,Battery life is decent. Performance is fine for basic tasks. The display is average. It is okay overall.,Neutral
+1044,NovaPhone X,2025-08-12,4,The battery easily lasts a full day. Great value for money. Very happy with this purchase.,Positive
+1045,AeroBook Air,2026-09-30,5,Excellent value for a laptop this good. Highly recommended. Battery easily gets me through a workday. The display is bright and sharp.,Positive
+1046,NovaPhone X,2025-06-21,3,Price is about what I expected. Mixed feelings.,Neutral
+1047,NovaPhone X,2026-01-10,5,Camera photos are stunning in daylight. Great value for money. Absolutely great. Delivery was quick and well packed.,Positive
+1048,BeatBuds Pro,2025-11-25,5,Totally worth the price. Loving it! Battery lasts for days on one charge.,Positive
+1049,FitPulse Watch,2026-05-19,1,Price is average. Would not recommend. Step and heart rate tracking are wildly inaccurate. Strap feels cheap and itchy.,Negative
+1050,NovaPhone X,2025-07-12,5,Delivery was quick and well packed. Absolutely great. Camera photos are stunning in daylight.,Positive
+1051,NovaPhone X,2026-06-05,5,Camera photos are stunning in daylight. Loving it! Delivery was quick and well packed. Overpriced for what you get.,Positive
+1052,BeatBuds Pro,2026-08-08,1,Sound is tinny and distorted at high volume. They hurt my ears after twenty minutes. Too expensive for the quality. Regret buying this.,Negative
+1053,NovaPhone X,2025-08-22,4,Loving it! Camera photos are stunning in daylight. Great value for money.,Positive
+1054,AeroBook Air,2026-10-04,3,Does the job. Price is reasonable. Performance is fine for basic tasks.,Neutral
+1055,AeroBook Air,2026-10-04,5,Absolutely great. The display is bright and sharp. Performance is blazing fast for coding. Battery easily gets me through a workday.,Positive
+1056,FitPulse Watch,2025-06-21,5,Fitness tracking is accurate and motivating. Strap feels cheap and itchy. Highly recommended.,Positive
+1057,AeroBook Air,2025-07-25,3,Price is reasonable. The display is average. Mixed feelings. Battery life is decent.,Neutral
+1058,BeatBuds Pro,2025-03-27,1,Totally worth the price. Regret buying this.,Negative
+1059,NovaPhone X,2025-01-15,4,Camera is decent for the price. The battery easily lasts a full day. Absolutely great. Great value for money.,Positive
+1060,BeatBuds Pro,2026-06-02,4,Absolutely great. Totally worth the price. Battery lasts for days on one charge.,Positive
+1061,NovaPhone X,2025-11-22,4,Camera photos are stunning in daylight. Loving it! Great value for money. Delivery was quick and well packed.,Positive
+1062,NovaPhone X,2026-01-15,5,Delivery was quick and well packed. Loving it!,Positive
+1063,NovaPhone X,2025-05-03,5,Camera photos are stunning in daylight. Loving it!,Positive
+1064,BeatBuds Pro,2026-01-31,2,Very disappointed. Sound is tinny and distorted at high volume.,Negative
+1065,AeroBook Air,2026-04-11,1,Would not recommend. Battery barely lasts three hours. Way too pricey.,Negative
+1066,AeroBook Air,2025-02-13,5,Excellent value for a laptop this good. The display is bright and sharp. Very happy with this purchase.,Positive
+1067,FitPulse Watch,2026-04-20,5,Very happy with this purchase. Fitness tracking is accurate and motivating. Amazing features at this price. Battery runs a full week.,Positive
+1068,AeroBook Air,2025-11-11,5,Highly recommended. Battery easily gets me through a workday. Excellent value for a laptop this good. Performance is blazing fast for coding.,Positive
+1069,BeatBuds Pro,2025-08-11,4,Absolutely great. Sound quality is crisp with deep bass. Very comfortable even after hours.,Positive
+1070,AeroBook Air,2026-01-31,1,Way too pricey. Regret buying this.,Negative
+1071,BeatBuds Pro,2026-06-28,5,Highly recommended. Very comfortable even after hours. Totally worth the price. Battery dies within two hours.,Positive
+1072,NovaPhone X,2026-01-01,1,Very disappointed. The battery easily lasts a full day.,Negative
+1073,BeatBuds Pro,2026-05-02,1,Very disappointed. They hurt my ears after twenty minutes.,Negative
+1074,AeroBook Air,2026-07-20,2,Performance lags with multiple tabs open. Battery barely lasts three hours. Would not recommend.,Negative
+1075,FitPulse Watch,2026-05-04,1,Battery runs a full week. Step and heart rate tracking are wildly inaccurate. Would not recommend.,Negative
+1076,BeatBuds Pro,2025-07-01,1,Sound is tinny and distorted at high volume. Regret buying this. They hurt my ears after twenty minutes. Battery dies within two hours.,Negative
+1077,BeatBuds Pro,2026-08-28,2,They hurt my ears after twenty minutes. Sound is tinny and distorted at high volume. Too expensive for the quality. Would not recommend.,Negative
+1078,FitPulse Watch,2025-02-23,3,Battery is okay. Design is plain but fine. Mixed feelings.,Neutral
+1079,BeatBuds Pro,2025-12-07,1,Total waste of money. Fairly priced. Battery dies within two hours.,Negative
+1080,NovaPhone X,2025-12-10,5,Delivery was quick and well packed. The battery easily lasts a full day. Great value for money. Very happy with this purchase.,Positive
+1081,AeroBook Air,2025-10-01,3,Way too pricey. Mixed feelings. Battery life is decent.,Neutral
+1082,NovaPhone X,2025-08-31,3,Price is about what I expected. It is okay overall. Camera photos are stunning in daylight. The battery easily lasts a full day.,Neutral
+1083,NovaPhone X,2026-10-04,3,Battery life is average. Mixed feelings.,Neutral
+1084,FitPulse Watch,2025-04-04,2,Battery runs a full week. Design is plain but fine. Very disappointed.,Negative
+1085,NovaPhone X,2026-08-30,5,Camera photos are stunning in daylight. Loving it! The battery easily lasts a full day. Great value for money.,Positive
+1086,NovaPhone X,2025-07-12,5,Great value for money. Highly recommended. Delivery was quick and well packed. The battery easily lasts a full day.,Positive
+1087,BeatBuds Pro,2026-06-03,3,Average product. Battery is fine for daily use.,Neutral
+1088,AeroBook Air,2025-03-08,5,Highly recommended. Battery easily gets me through a workday. Excellent value for a laptop this good.,Positive
+1089,NovaPhone X,2026-01-06,5,Battery life is average. Absolutely great. Great value for money.,Positive
+1090,NovaPhone X,2025-12-28,2,Delivery was late and the box was damaged. Camera is blurry in low light. Regret buying this. Overpriced for what you get.,Negative
+1091,FitPulse Watch,2026-03-06,5,Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating. Absolutely great.,Positive
+1092,NovaPhone X,2025-08-11,3,Delivery took the usual time. Price is about what I expected. Does the job.,Neutral
+1093,NovaPhone X,2026-05-14,4,Very happy with this purchase. Delivery was quick and well packed. Camera is blurry in low light.,Positive
+1094,FitPulse Watch,2026-05-04,4,Amazing features at this price. Loving it!,Positive
+1095,AeroBook Air,2026-09-06,5,Absolutely great. Way too pricey. The display is bright and sharp. Performance is blazing fast for coding.,Positive
+1096,BeatBuds Pro,2026-03-04,1,They hurt my ears after twenty minutes. Too expensive for the quality. Would not recommend.,Negative
+1097,BeatBuds Pro,2025-05-11,5,Absolutely great. Battery lasts for days on one charge. Totally worth the price.,Positive
+1098,AeroBook Air,2025-03-25,1,Battery barely lasts three hours. Performance is fine for basic tasks. The display has terrible washed out colors. Would not recommend.,Negative
+1099,FitPulse Watch,2025-08-17,5,Battery runs a full week. Absolutely great. Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist.,Positive
+1100,NovaPhone X,2025-05-04,5,The battery easily lasts a full day. Very happy with this purchase. Great value for money. Delivery was quick and well packed.,Positive
+1101,AeroBook Air,2025-10-31,1,Way too pricey. Battery barely lasts three hours. The display has terrible washed out colors. Would not recommend.,Negative
+1102,NovaPhone X,2025-11-18,5,Delivery was quick and well packed. Absolutely great. The battery easily lasts a full day. Camera photos are stunning in daylight.,Positive
+1103,NovaPhone X,2025-12-01,3,Battery life is average. Average product. Price is about what I expected.,Neutral
+1104,FitPulse Watch,2025-02-05,5,Looks sleek and premium on the wrist. Loving it! Amazing features at this price.,Positive
+1105,AeroBook Air,2026-01-01,4,Excellent value for a laptop this good. Highly recommended. Battery easily gets me through a workday. Performance is blazing fast for coding.,Positive
+1106,AeroBook Air,2026-07-16,5,Absolutely great. Performance is blazing fast for coding. The display is bright and sharp.,Positive
+1107,NovaPhone X,2025-08-19,3,Camera is decent for the price. Mixed feelings. Battery life is average.,Neutral
+1108,FitPulse Watch,2025-11-27,5,Fitness tracking is accurate and motivating. Highly recommended.,Positive
+1109,FitPulse Watch,2026-08-20,1,Price is average. Battery needs charging every night. Step and heart rate tracking are wildly inaccurate. Regret buying this.,Negative
+1110,FitPulse Watch,2025-06-13,5,Highly recommended. Fitness tracking is accurate and motivating. Battery runs a full week. Looks sleek and premium on the wrist.,Positive
+1111,BeatBuds Pro,2026-04-02,1,Total waste of money. They hurt my ears after twenty minutes. Sound is tinny and distorted at high volume.,Negative
+1112,FitPulse Watch,2025-11-02,4,Battery runs a full week. Absolutely great.,Positive
+1113,BeatBuds Pro,2025-11-14,3,Battery is fine for daily use. It is okay overall. Comfort is acceptable.,Neutral
+1114,NovaPhone X,2026-04-14,5,Highly recommended. Great value for money.,Positive
+1115,FitPulse Watch,2025-03-21,1,Regret buying this. Not worth the money.,Negative
+1116,NovaPhone X,2026-01-26,3,Battery life is average. It is okay overall.,Neutral
+1117,BeatBuds Pro,2025-01-23,5,Very comfortable even after hours. Highly recommended. Battery lasts for days on one charge.,Positive
+1118,AeroBook Air,2025-02-01,2,Battery barely lasts three hours. Would not recommend.,Negative
+1119,FitPulse Watch,2026-07-31,5,Highly recommended. Battery runs a full week.,Positive
+1120,FitPulse Watch,2025-02-15,4,Battery needs charging every night. Absolutely great. Fitness tracking is accurate and motivating. Looks sleek and premium on the wrist.,Positive
+1121,NovaPhone X,2026-04-04,3,Average product. Price is about what I expected. Delivery took the usual time.,Neutral
+1122,NovaPhone X,2025-04-01,3,Delivery took the usual time. Average product.,Neutral
+1123,AeroBook Air,2026-08-18,5,Very happy with this purchase. Excellent value for a laptop this good. The display is bright and sharp.,Positive
+1124,FitPulse Watch,2025-05-21,5,Battery runs a full week. Absolutely great. Looks sleek and premium on the wrist.,Positive
+1125,AeroBook Air,2025-06-13,3,It is okay overall. Performance is fine for basic tasks. The display is average. Price is reasonable.,Neutral
+1126,BeatBuds Pro,2025-02-12,3,Fairly priced. It is okay overall.,Neutral
+1127,NovaPhone X,2026-01-18,2,Overpriced for what you get. Would not recommend. Camera is blurry in low light.,Negative
+1128,FitPulse Watch,2026-04-10,2,Step and heart rate tracking are wildly inaccurate. Strap feels cheap and itchy. Total waste of money.,Negative
+1129,BeatBuds Pro,2025-09-05,3,"Sound is okay, nothing special. It is okay overall.",Neutral
+1130,FitPulse Watch,2025-07-10,4,Highly recommended. Battery runs a full week.,Positive
+1131,NovaPhone X,2025-08-02,5,Very happy with this purchase. Camera is decent for the price. The battery easily lasts a full day.,Positive
+1132,AeroBook Air,2025-04-11,5,Absolutely great. Excellent value for a laptop this good. Performance is blazing fast for coding. Battery easily gets me through a workday.,Positive
+1133,FitPulse Watch,2025-03-26,1,Step and heart rate tracking are wildly inaccurate. Not worth the money. Strap feels cheap and itchy. Very disappointed.,Negative
+1134,BeatBuds Pro,2025-05-12,1,Battery dies within two hours. Sound is tinny and distorted at high volume. Total waste of money. They hurt my ears after twenty minutes.,Negative
+1135,NovaPhone X,2025-05-01,3,Price is about what I expected. Does the job. Battery life is average.,Neutral
+1136,FitPulse Watch,2026-05-09,4,Looks sleek and premium on the wrist. Battery runs a full week. Loving it!,Positive
+1137,FitPulse Watch,2026-04-01,4,Loving it! Fitness tracking is accurate and motivating. Amazing features at this price.,Positive
+1138,NovaPhone X,2025-01-22,5,Loving it! Camera photos are stunning in daylight.,Positive
+1139,AeroBook Air,2025-03-31,1,Regret buying this. Way too pricey.,Negative
+1140,AeroBook Air,2026-04-02,3,Battery life is decent. Excellent value for a laptop this good. The display is average. Does the job.,Neutral
+1141,AeroBook Air,2025-05-17,1,Performance lags with multiple tabs open. Battery easily gets me through a workday. Would not recommend.,Negative
+1142,FitPulse Watch,2025-01-10,5,Loving it! Battery runs a full week.,Positive
+1143,AeroBook Air,2026-05-02,3,Battery life is decent. Does the job.,Neutral
+1144,FitPulse Watch,2025-05-11,4,Fitness tracking is accurate and motivating. Absolutely great.,Positive
+1145,BeatBuds Pro,2026-10-03,3,Fairly priced. It is okay overall.,Neutral
+1146,AeroBook Air,2026-01-18,3,Way too pricey. Performance is fine for basic tasks. Average product.,Neutral
+1147,FitPulse Watch,2025-06-11,5,Absolutely great. Fitness tracking is accurate and motivating.,Positive
+1148,BeatBuds Pro,2026-10-19,1,Too expensive for the quality. Regret buying this. Sound is tinny and distorted at high volume.,Negative
+1149,NovaPhone X,2026-05-15,5,Very happy with this purchase. Camera photos are stunning in daylight. Great value for money.,Positive
+1150,FitPulse Watch,2026-09-01,1,Strap feels cheap and itchy. Not worth the money. Step and heart rate tracking are wildly inaccurate. Very disappointed.,Negative
+1151,BeatBuds Pro,2026-09-05,5,Highly recommended. Very comfortable even after hours. Battery lasts for days on one charge.,Positive
+1152,FitPulse Watch,2026-07-21,2,Total waste of money. Tracking is acceptable.,Negative
+1153,AeroBook Air,2026-05-24,4,Very happy with this purchase. The display is bright and sharp. Performance is blazing fast for coding.,Positive
+1154,AeroBook Air,2026-07-18,4,Price is reasonable. Battery easily gets me through a workday. Absolutely great.,Positive
+1155,FitPulse Watch,2026-03-07,5,Absolutely great. Looks sleek and premium on the wrist.,Positive
+1156,BeatBuds Pro,2026-01-06,4,Totally worth the price. Very comfortable even after hours. Loving it!,Positive
+1157,NovaPhone X,2026-03-10,4,Loving it! Great value for money.,Positive
+1158,BeatBuds Pro,2026-08-08,5,Very comfortable even after hours. Totally worth the price. Very happy with this purchase. Sound quality is crisp with deep bass.,Positive
+1159,AeroBook Air,2026-07-09,3,The display is average. Performance is fine for basic tasks. It is okay overall.,Neutral
+1160,NovaPhone X,2026-04-16,3,Average product. Great value for money.,Neutral
+1161,BeatBuds Pro,2026-09-07,3,It is okay overall. Comfort is acceptable.,Neutral
+1162,FitPulse Watch,2026-01-29,5,Loving it! Battery runs a full week.,Positive
+1163,FitPulse Watch,2026-06-04,4,Absolutely great. Looks sleek and premium on the wrist. Fitness tracking is accurate and motivating.,Positive
+1164,FitPulse Watch,2026-02-19,3,Tracking is acceptable. Price is average. It is okay overall. Battery is okay.,Neutral
+1165,AeroBook Air,2025-03-08,5,The display is bright and sharp. Absolutely great. Excellent value for a laptop this good.,Positive
+1166,FitPulse Watch,2026-04-02,1,Not worth the money. Total waste of money.,Negative
+1167,FitPulse Watch,2026-08-23,4,Battery runs a full week. Very happy with this purchase. Looks sleek and premium on the wrist.,Positive
+1168,BeatBuds Pro,2026-06-22,3,"Very comfortable even after hours. Does the job. Sound is okay, nothing special.",Neutral
+1169,AeroBook Air,2025-08-26,5,Way too pricey. Very happy with this purchase. The display is bright and sharp.,Positive
+1170,NovaPhone X,2025-10-03,1,Overpriced for what you get. Regret buying this. Delivery was late and the box was damaged. Camera is blurry in low light.,Negative
+1171,BeatBuds Pro,2026-06-10,1,Too expensive for the quality. Very comfortable even after hours. Would not recommend.,Negative
+1172,NovaPhone X,2026-09-16,1,Delivery was late and the box was damaged. Would not recommend.,Negative
+1173,AeroBook Air,2025-05-20,1,Excellent value for a laptop this good. Performance lags with multiple tabs open. Regret buying this.,Negative
+1174,NovaPhone X,2026-02-22,5,Absolutely great. Delivery was quick and well packed. Camera photos are stunning in daylight. Great value for money.,Positive
+1175,BeatBuds Pro,2025-11-03,1,Sound is tinny and distorted at high volume. Battery dies within two hours. Would not recommend.,Negative
+1176,AeroBook Air,2025-05-24,5,Performance is blazing fast for coding. The display is bright and sharp. Highly recommended.,Positive
+1177,AeroBook Air,2026-04-23,5,Highly recommended. Performance is blazing fast for coding.,Positive
+1178,FitPulse Watch,2026-10-18,4,Amazing features at this price. Highly recommended.,Positive
+1179,NovaPhone X,2025-10-29,4,Absolutely great. Great value for money.,Positive
+1180,AeroBook Air,2026-06-06,3,It is okay overall. The display is bright and sharp. Performance is fine for basic tasks. Price is reasonable.,Neutral
+1181,BeatBuds Pro,2025-02-22,1,Regret buying this. Battery dies within two hours. Sound is tinny and distorted at high volume.,Negative
+1182,NovaPhone X,2025-12-05,3,Delivery took the usual time. It is okay overall. Price is about what I expected.,Neutral
+1183,FitPulse Watch,2026-03-05,1,Battery needs charging every night. Not worth the money. Strap feels cheap and itchy. Would not recommend.,Negative
+1184,BeatBuds Pro,2025-06-17,4,Totally worth the price. Very happy with this purchase.,Positive
+1185,NovaPhone X,2026-04-16,4,Delivery took the usual time. Absolutely great. The battery easily lasts a full day.,Positive
+1186,AeroBook Air,2025-08-20,1,The display has terrible washed out colors. Way too pricey. Total waste of money.,Negative
+1187,NovaPhone X,2025-09-21,5,Delivery was quick and well packed. Very happy with this purchase. Great value for money.,Positive
+1188,NovaPhone X,2025-12-06,3,Average product. Price is about what I expected. Camera is decent for the price. Battery life is average.,Neutral
+1189,AeroBook Air,2026-03-19,5,Excellent value for a laptop this good. Loving it!,Positive
+1190,BeatBuds Pro,2026-08-26,5,Very happy with this purchase. Very comfortable even after hours.,Positive
+1191,BeatBuds Pro,2026-09-05,5,Very comfortable even after hours. Highly recommended.,Positive
+1192,AeroBook Air,2026-03-15,2,Performance is fine for basic tasks. Very disappointed.,Negative
+1193,FitPulse Watch,2025-11-14,3,Fitness tracking is accurate and motivating. Average product. Design is plain but fine. Battery is okay.,Neutral
+1194,AeroBook Air,2026-09-23,5,Excellent value for a laptop this good. Performance is blazing fast for coding. Highly recommended. Battery easily gets me through a workday.,Positive
+1195,NovaPhone X,2025-08-18,3,Camera is decent for the price. Average product. Battery life is average.,Neutral
+1196,AeroBook Air,2026-02-15,5,Absolutely great. The display is bright and sharp. Battery easily gets me through a workday.,Positive
+1197,FitPulse Watch,2025-06-08,3,Mixed feelings. Design is plain but fine.,Neutral
+1198,NovaPhone X,2025-05-06,5,Absolutely great. Great value for money. Delivery was late and the box was damaged. Battery life is average.,Positive
+1199,AeroBook Air,2025-03-09,3,It is okay overall. Price is reasonable.,Neutral
+1200,NovaPhone X,2025-12-01,5,Absolutely great. Delivery was quick and well packed. The battery easily lasts a full day.,Positive
